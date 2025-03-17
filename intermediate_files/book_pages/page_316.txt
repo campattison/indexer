@@ -1,0 +1,34 @@
+92X7/- 56. A7 
+3(A
+does not arise at all, it seems to me, for neuron- by- neuron emulations of 
+animal brains. In these cases, the evidence we !nd compelling in the original 
+animals should be taken at face value when found in the emulation. Other 
+types of system may be subject to the problem to intermediate degrees. 
+Unfortunately, the !rst type of system seems to be exactly the type on which 
+current research and innovation eﬀorts are intensely concentrated.
+Proposal 23. The gaming problem. For any set of criteria for sentience 
+candidature, we need to be aware of the risk of the AI system or its 
+designer learning (implicitly or explicitly) that they are regarded as 
+criteria, leading to gaming of the criteria. We need to discount markers we 
+have reason to think may have been gamed.
+The problem is a very frustrating one. For, on the face of it, it undermines our 
+ability to use linguistic behaviour of any kind to assess the sentience candida-
+ture of LLMs. And this is, obviously, the main kind of behaviour they display.B
+16.2 Boxing the AI: Schneider and Turner’s  
+‘Artiﬁcial Consciousness Test’
+To further underline the severity of the challenge, let us turn to a proposal 
+from Susan Schneider and Edwin Turner.C Schneider and Turner have pro-
+posed an ‘arti!cial consciousness test’ (ACT) broadly inspired by Alan 
+Turing’s well- known approach to related questions. This is one of the most 
+carefully worked- out proposals for using linguistic behaviour to detect signs 
+of sentience in AI, and yet I do not think it successfully avoids the gaming 
+problem.
+Turing famously proposed a test for thought: the imitation game, in which 
+two players must try to convince a human interlocutor (who is free to ask any 
+question to either player) that they are the human and the other player is the 
+AI. If an AI system could perform as well as a human player in this game, 
+Turing suggested, we would accept that it was a thinking, intelligent being. 
+B Though see Perez and Long (2023) for an attempt to characterize linguistic behavioural markers 
+that survive the gaming problem.
+C Schneider and Turner (2017); Schneider (2019, 2020).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

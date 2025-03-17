@@ -1,0 +1,38 @@
+T() 2)3)E7,T 6:73) /F F9,:T+/,73 /287,+R7T+/, 
+6;
+the severing of their corpus callosum, a structure linking the two hemispheres 
+of the cerebrum. Due to the wiring of the visual pathways, the le4- hand side 
+of the visual ﬁeld sends information to the right hemisphere and vice versa. In 
+some split- brain patients, information presented to one half of the visual ﬁeld 
+is unavailable to guide actions controlled by the other. Thomas Nagel and 
+Michael Lockwood took behavioural disunity as a challenge to the assump-
+tion that consciousness must always be uniﬁed.HP In later discussions, Hurley 
+and Bayne sought to reconcile the data with the unity of consciousness.H1
+If we grant that some form of embodiment and agency is a necessary con-
+dition for conscious experience, the next question is whether virtual embodi-
+ment and agency, of which a very simple form already exists in ‘DishBrain’, 
+might be enough. We cannot rule out that it is. Indeed, I am doubtful there is 
+anything real agency and embodiment provide that a suﬃciently rich virtual 
+environment could not also provide. And so, once again, the zone of rea son-
+able disagreement along this axis is quite wide. Views on which real agency 
+and embodiment are required are reasonable, but so are views on which vir-
+tual forms are enough, as are views on which neither is required in any form.
+3.6 The Relevant Scale of Functional Organization
+Could an AI system achieve sentience? Could a robot? These questions are 
+o4en said to turn on the ‘substrate neutrality’ or ‘substrate sensitivity’ of sen-
+tience. In fact, I have come to see this as an oversimpliﬁed way of framing the 
+issue. However, I will discuss it in this language ﬁrst— before explaining why I 
+have come to see this as too simplistic.
+According to substrate neutrality, sentience does not depend on the ma ter-
+ial substrate in which a system is realized, only on the functional organization 
+of that substrate. Biology is optional. The functional architecture of the 
+human brain, realized in a di!erent medium, such as a future supercomputer, 
+would still be suﬃcient for sentience. Substrate sensitivity, by contrast, says 
+the nature of the material substrate does matter.
+Framed like this, is there any evidence that could settle the issue? Susan 
+Schneider has made a proposal for how the issue could eventually be 
+resolved.H2 It relies on the conjecture that neural implants will one day be 
+HP Nagel (1971); Lockwood (1989).
+H1 Bayne (2010); Hurley (1998). Schechter (2018) is a good entry point to this debate.
+H2 Schneider (2019, 2020).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

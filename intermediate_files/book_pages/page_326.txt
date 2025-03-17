@@ -1,0 +1,36 @@
+- 6;.)R-T) -2T)R,-T0?) 
+327
+control over the procedures used. We would just need to make sure that 
+research on the artiﬁcial emulations was regulated in a similar way to research 
+on living systems, and was not an ethical free- for- all, with extreme forms of 
+torture permitted.
+In sum, to enact any ban would be to forego signiﬁcant beneﬁts, which may 
+be economic, epistemic, and/or ethical in nature, depending on the details of 
+what exactly is banned. Given this, I think more moderate options should 
+also be on the table. Remember that a pillar of proportionality is reasonable 
+necessity: a precaution is not proportionate if there is another permissible 
+route to an adequate level of risk reduction that causes less harm. A common 
+reaction to Metzinger’s proposal is that it is excessive: it goes beyond what is 
+reasonably necessary. So we should ask: what else might deliver an adequate 
+level of risk reduction?
+17.2 A Moderate Alternative
+Schneider has proposed a way forward rather less radical than Metzinger’s. 
+It consists of the following three proposals:
+First, ongoing testing for consciousness should be a normal part of the 
+research and development of domain- general, sophisticated AI systems. [. . .]
+Second, if a system is conscious, we should extend the same legal protec-
+tions to the AI we extend to other sentient beings.
+Third, if we are uncertain whether a given type of AI is conscious, but we 
+have some reason to believe it may be, even in the absence of a deﬁnitive 
+test, a precautionary stance suggests that we should extend the same legal 
+protections to it that we extend to other sentient beings.A
+One di3culty with the ﬁrst proposal is that it is unclear what form ‘ongoing 
+testing’ should take (see Chapter 16), and Schneider’s proposals say nothing 
+about what should happen when serious ongoing testing is rendered impos-
+sible by the lack of any adequate grip on what the tests should be. But the 
+dearth of satisfactory tests is a problem for everyone, not just Schneider. Any 
+attempt to regulate AI research without banning it completely, including my 
+own proposal later, will run into this wall in one way or another. All I can do 
+is encourage more research into this fundamental problem.
+A Schneider (2020, pp. 454–455, paragraph breaks added).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

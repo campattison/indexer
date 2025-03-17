@@ -1,0 +1,41 @@
+./) 1)A24/ 3O2 4OG5-.-J)-;O.O2 0-11O4-A.-O5 
+%77
+fMRI, and EEG techniques ‘whenever feasible’ and has proposed that patients 
+should be diagnosed as having the ‘highest level’ of consciousness indicated 
+by behaviour, PET/fMRI neuroimaging, or EEG.11
+I do not want to underplay the promise of these approaches. However, two 
+notes of caution are important. The 8rst is that any technique with high spe-
+ci 8 city (a low rate of false positives) is likely to have low sensitivity (a high 
+rate of false negatives). Given the absence of consensus regarding which brain 
+mechanisms are relevant to conscious experience and why (see Chapter 5), it 
+is inherently very diﬃcult to tell whether a patient’s brain activity indicates 
+residual conscious experience. The clearest signs come in situations where we 
+have set a relatively demanding cognitive task (a high bar) and received an 
+unambiguous signal. In a celebrated example, a group led by Adrian Owen 
+asked patients to imagine playing tennis if the answer to a question was ‘yes’ 
+and to imagine walking round their home if the answer was ‘no’. These two 
+imaginative activities involve di!erent brain regions, yielding easily dis cern-
+ible fMRI signatures in healthy controls. A healthy adult in an fMRI scanner 
+is therefore able to answer the experimenter’s questions through voluntary 
+mental activity alone. Owen and colleagues showed, astonishingly, that an 
+outwardly unresponsive patient was able to answer questions just as unam-
+biguously and accurately as the healthy controls. In follow- up work, they 
+found more examples.12
+Note, however, that this technique places signi8cant demands on the 
+patient. Firstly, they need to be moved to an fMRI scanner, a process oAen 
+inappropriate for a patient in a critical condition in an intensive care unit 
+(ICU) following traumatic brain injury. Secondly, they need to be able to 
+hear and process the questions and formulate an intentional response. The 
+cognitive demands of this task could exceed the abilities of some covertly 
+conscious patients. They might have problems with attention, language pro-
+cessing, or intentional command- following that impede correct responding 
+without abolishing experience. For these reasons, we should not expect such 
+techniques to be well suited to frequent use in the ICU, nor should we expect 
+them to be very sensitive.19
+A range of other approaches have sought to increase sensitivity and ease 
+of bedside use. We should, however, expect these techniques to come with 
+a corresponding loss of speci8city: a greater risk of false positives. In 2019, 
+11 Kondziella et al. (2020).
+12 Monti et al. (2010); Owen et al. (2006).
+19 A.DPeterson et al. (2015).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

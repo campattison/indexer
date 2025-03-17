@@ -1,0 +1,42 @@
+)CF 
+,-. /0.12.3, /145651,.3
+brain of Birgus latro calculated it to have a volume of around 3 cubic 
+ millimetres.78 For comparison, the brain of a typical laboratory mouse 
+(Mus musculus) is about 500 cubic millimetres.79
+Yet we need to remember that a signiﬁcant number of neurons and a lot of 
+functional complexity can be packed into a small brain. In decapods, there 
+are well- documented integrative regions linked to learning and memory, 
+known as the hemiellipsoid bodies. The study just mentioned counted 
+253,556 neurons in each of the two hemiellipsoid bodies of Birgus latro, each 
+representing 13.4 per cent of the brain by volume.7; I oppose the use of neuron 
+counts as a major consideration, and that point still stands even when the 
+neuron counts concern brain areas linked to integrative functions. Yet it is 
+still worth highlighting the substantial amount of brain tissue dedicated to 
+integrating information from diﬀerent sensory sources as a retort to those 
+who question whether decapods even have brains.
+How widely shared are these integrative regions? A study by Nicholas 
+Strausfeld and collaborators provided compelling evidence on this question 
+(Fig. 12.2).79 Strausfeld et al. used an immunostaining technique to identify 
+and map out the hemiellipsoid bodies in thirteen distinct lineages of crustacean. 
+The study demonstrates that these regions are a general feature of the decapods. 
+At the same time, it also revealed miniaturization and weak diﬀerentiation of 
+those regions in the world’s most commercially important farmed shrimp, 
+Penaeus vannamei (also known as Litopenaeus vannamei), commonly known 
+as the whiteleg shrimp or Paciﬁc white shrimp, but ofen sold as the ‘king 
+prawn’.
+Are these miniaturized hemiellipsoid bodies still performing important 
+functions for the animal? Since nervous tissue is energetically expensive to 
+maintain, this sort of diminution is what we expect to see when a particular 
+system is no longer functionally signiﬁcant. Rebecca Meth and colleagues 
+suggest one possible explanation: the size of the hemiellipsoid bodies is 
+largely driven, they suggest, by the richness of the olfactory input they receive, 
+but the sensory ecology of whiteleg shrimps in the wild gives reduced 
+importance to olfaction, particularly in comparison to terrestrial decapods, 
+and increased importance to vision in low- light conditions (i.e. turbid water). 
+78 Krieger et al. (2010).
+79 Badea et al. (2007).
+7; This can be compared with the 13.7 million neurons in the cerebral cortex of a mouse 
+(Herculano- Houzel et al. 2006): a big diﬀerence, but not as big as one might have guessed from the 
+volumes alone.
+79 Strausfeld et al. (2020). See also Harzsch and Krieger (2021).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

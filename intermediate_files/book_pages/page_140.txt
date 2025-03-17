@@ -1,0 +1,45 @@
+540 
+I(VO2VI() TH, 13B2I?
+In pluralistic societies, we continually face problems of value conﬂict. 
+When thinking about precautions against risks, we must consider the harms 
+imposed by the proposed response and whether they are justiﬁed by the level 
+of risk reduction they achieve. Informally: is the cure worse than the disease? 
+Yet there is very o9en (perhaps always) no appropriate way to weigh the 
+expected harms and beneﬁts in a common currency.
+To give one example, discussed in Chapter 17: Thomas Metzinger has 
+called for a moratorium on AI research that knowingly risks creating artiﬁcial 
+sentience, not because of the risks to humanity, but because the risk of devel-
+oping sentient AI that we expose to terrible su;ering is too great.A Is this pro-
+portionate? On the harm side of the ledger, we forego potentially massive 
+economic gains that could make human lives easier in many areas. On the 
+beneﬁt side, we have the potential for preventing the su;ering of a new type 
+of sentient being. In what common currency are these harms and beneﬁts to 
+be compared?
+In situations of value conﬂict, a threat arises that I call the ‘tyranny of 
+expert values’. It is not that there is literally no way to resolve a conﬂict 
+between disparate values: the real problem is that there are many ways, 
+reﬂecting di;erent ways of weighting the values.B Experts o9en unintention-
+ally build an implicit weighting into the advice they give. If this weighting is 
+never brought to the surface and scrutinized by a democratic process, we 
+have a problem of accountability.
+One example of this phenomenon (unrelated to sentience) is the UK’s ini-
+tial response to COVID- 19.C The school closures and national lockdown of 
+March 2020 were driven by forthright advice from epidemiological advisers, 
+who told the government that (to quote from published documents) a strat-
+egy involving school closures ‘should be followed as soon as practical’,D that it 
+was ‘the only viable strategy at the current time’,E and that ‘evidence now sup-
+ports implementing school closures on a national level as soon as practicable 
+to prevent NHS intensive care capacity being exceeded’.F
+As critics noted, this strategy imposed a serious harm on schoolchildren, 
+who are generally at very low risk of contracting severe COVID- 19, and were 
+thought even in the early stages of the pandemic to be at very low risk.G These 
+harms will have a legacy stretching far into the future. At the heart of the 
+A Metzinger (2021).
+B This is why I prefer the term ‘value conﬂict’ to ‘value incommensurability’, which is sometimes 
+also used.
+C Birch (2021a).
+D SPI- M- O (2020).
+E Ferguson et al. (2020).
+F Scientiﬁc Advisory Group for Emergencies (2020a).
+G Lewis et al. (2021).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

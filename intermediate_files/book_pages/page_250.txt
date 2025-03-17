@@ -1,0 +1,40 @@
+A-1, A. FBH45, 64 B26.F 
+)CN
+For each criterion, we used conﬁdence levels to communicate the 
+strength of the evidence that the animals under discussion satisfy or fail 
+the criterion, an approach to communicating uncertainty inspired by the 
+Intergovernmental Panel on Climate Change.72 These conﬁdence levels 
+take into account both the amount of evidence for a claim and the reliability 
+and quality of the scientiﬁc work and were agreed through discussion 
+among the authors.
+We used the category of ‘very high conﬁdence’ only when we judged that 
+the weight of scientiﬁc evidence leaves no room for reasonable doubt that a 
+marker is present/absent. We used the category of ‘high conﬁdence’ in cases 
+when we could see strong but not completely conclusive evidence of the 
+marker being present/absent. We used the category of ‘medium conﬁdence’ 
+in cases where we had some concerns about the reliability of the evidence. We 
+used ‘low conﬁdence’ for cases where there is little evidence that an animal 
+satisﬁes or fails the criterion, or where there is evidence of similar strength in 
+both directions. We used ‘very low’ or ‘no conﬁdence’ when the evidence is 
+either seriously inadequate or non- existent. A key point is that ‘low conﬁ-
+dence’ that a marker is present does not mean that we think it is probably 
+absent. What it means is that the evidence one way or the other is thin, low- 
+quality, ﬁnely balanced, or a combination of these.
+Our key ﬁndings took the form of conﬁdence levels for each criterion, for 
+various groupings of decapod and cephalopod. Those ﬁndings are summarized 
+in Tables 12.1 and 12.2, reproduced from the full report.
+Example 1: Conditioned Place Avoidance in Octopuses
+I will brie:y describe a few of the studies that provided relevant evidence. A 
+2021 study by Robyn Crook tested for conditioned place avoidance in the 
+pygmy octopus, Octopus bocki, testing our criterion 8b.73 Octopuses were 
+given a choice of three chambers, marked by diﬀerent patterns on the walls. 
+One chamber was paired with an acetic acid injection that the animals found 
+aversive. Another was paired with administration of lidocaine (a local anaes-
+thetic) to the aﬀected area. Animals that initially preferred the acid- paired 
+chamber, prior to experiencing the noxious stimulus, learned to disfavour it, 
+and to prefer the lidocaine- paired chamber. Moreover, the octopuses displayed 
+a distinctive skin- scraping behaviour in response to the noxious stimulus that 
+ceased afer the administration of lidocaine. Meanwhile, electrophysiological 
+72 IPCC (2010).
+73 Crook (2021).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

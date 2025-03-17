@@ -1,0 +1,39 @@
+78B 
+D04A()NG -R,-,R(),NA/)(5
+potentially lawful, since the right to refuse medical treatment can be suspended 
+on public health grounds when proportionate. A panel might nonetheless 
+ﬁnd such an option deeply unethical, and might decide that it would be better 
+to rule it out immediately as impermissible- in- principle rather than spend 
+time comparing it with other options.
+Test 2: Adequacy
+Informally, a proportionate response to a risk must do enough. The require-
+ment is not that the response completely removes the identiﬁed risk, or even 
+that it renders it negligible or no longer urgent. This is oCen unachievable, as 
+the COVID- 19 pandemic clearly demonstrated. Many measures were taken, 
+but none removed the risk, rendered it negligible, or removed its urgency.
+We cannot specify a one- size- ﬁts- all threshold that must be achieved (e.g. 
+the probability of the threat materializing must be reduced to 10 per cent or 
+less). Such a threshold would be arbitrary and insu?ciently insensitive to the 
+details of particular cases. Furthermore, we oCen ﬁnd ourselves in situations 
+where agreed, precise probabilities cannot be placed on scenarios or outcomes. 
+We are in exactly such a situation at the edge of sentience. We all have our 
+own degrees of belief about these cases— our own subjective probabilities— 
+but there is no agreement on precise probabilities.
+So what is required of an adequate response? A proposal: the response 
+should either (i) reduce the risk to an acceptable level or, if this is un achiev-
+able, (ii) deliver the best level of risk reduction that can be achieved by any 
+permissible- in- principle option.
+The question of adequacy may initially sound like a scientiﬁc question— 
+one that can be leC to the experts, without input from citizens— but it is not. 
+This is because the judgement of an acceptable level of risk is an evaluative 
+judgement. Our way of life depends on tolerating risks: to drive a car is to 
+tolerate risk of injury, to interact with other people in the same room is 
+toDtolerate risk of communicable disease. But the question of what levels of 
+risk are acceptable is a question for the people who will be taking the risks, 
+not for an elite group of experts.
+It might be objected that the question of acceptability (and thus of propor-
+tionality) is diﬀerent when it comes to risks at the edge of sentience. OCen, as 
+with driving and social interaction, the question is one of prudential ac cept-
+abil ity: what risks ought we accept for the sake of our own happiness? It is 
+clear why ordinary citizens— being the experts on their own interests and 
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

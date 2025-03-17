@@ -1,0 +1,38 @@
+9U66-RY ;: 1(-/T)R KL 
+33M
+be branded as ‘applying the precautionary principle’. What we need is a pre-
+cautionary framework: an institutional setup for reaching decisions that allows 
+our disagreements about proportionality to be resolved democratically.
+In my view, the procedures constructed in Part II of the book can be use-
+fully applied to this problem. We need to be putting proposals like Metzinger’s 
+moratorium and my Proposal 26 to citizens’ assemblies, asking those panels 
+to consider questions of proportionality through a procedure such as the 
+PARC tests. That is the way to build conﬁdence that our regulatory schemes 
+are proportionate to the risks.
+The fundamental point is that these choices should be ours to make as a 
+democratic society. And they should be made out in the open. We should not 
+rest comfortably with ethical arrangements agreed in secret, behind the doors 
+of tech companies.
+17.5 Summary of Chapter 17
+Given the rate at which AI is developing, and the risks associated with artiﬁ-
+cial sentience taking us by surprise, we should apply the run- ahead principle: 
+at any given time, measures to regulate the development of sentient AI should 
+run ahead of what would be proportionate to the risks posed by current tech-
+nology, considering also the risks posed by credible future trajectories.
+The run- ahead principle may potentially justify strong regulatory action, 
+but a moratorium, such as that proposed by Metzinger, may go beyond what 
+is reasonably necessary to manage risk. Meanwhile, Schneider’s more moder-
+ate alternative— involving regular testing to monitor the sentience of our AI 
+creations— is currently unfeasible, given the absence of tests that can be 
+applied to large language models and other systems with high potential for 
+gaming our criteria. A third approach involves oversight by means of sector- 
+wide codes of good practice and licensing schemes. Yet this path would 
+require a greater level of transparency than we have seen from the AI industry 
+to date.
+The overarching imperative is to have democratic debate about these ques-
+tions now, in the hope that we might be prepared for the upheaval of human 
+lives that artiﬁcial sentience candidates will inevitably precipitate, if and 
+when they arrive.
+The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI. Jonathan Birch, Oxford University Press. 
+© Jonathan Birch 2024. DOI: 10.1093/9780191966729.003.0018
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

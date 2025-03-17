@@ -1,0 +1,39 @@
+77F 
+4E;,3L ­,234­/50
+We should feel pressure towards consistency. When an adult human patient 
+displays no sleep- wake cycles and no brainstem reﬂexes, and when this con-
+dition is irreversible, they are declared brainstem dead, regardless of the 
+amount of cortical tissue they still possess. Cortical tissue alone is not enough 
+for sentience candidature, even for those who think the neural basis of sen-
+tience lies in the neocortex.
+Indeed, as I understand it, a major current limitation of current organoids 
+(when not implanted into host animals) is that they are not fully vascular-
+ized: they lack active blood ﬂow. Again, I must note that the situation is 
+changing rapidly. As I write, labs around the world are trying hard to over-
+come this limitation by joining up neural organoids to vascular organoids, 
+with varying degrees of success.G We cannot rule out the possibility that fully 
+vascularized organoids will be developed very soon, or even by the time this 
+book is published. But as things stand at this moment, it seems a basic pre- 
+requisite for any cognitive function or conscious experience in a human brain 
+is absent in neural organoids.
+11.3 Early Warning Signs
+For all this, there are concerning signs about the potential for organoid 
+research to accelerate rapidly towards the edge of sentience. In the case of 
+disorders of consciousness, the search for electrophysiological markers of 
+conscious experience has been underway for decades (see §9.2). Synchronized, 
+rhythmic oscillations of local ﬁeld potentials— informally known as brain 
+waves— have long been seen as one of the most important sources of potential 
+markers. Despite a continuing lack of consensus about exactly which oscilla-
+tions matter, there is widespread consensus about the idea that they are a 
+promising place to look.
+Trujillo and colleagues allowed cortical organoids to develop for an 
+un usual ly long period of time, ten months, and recorded their electrophysio-
+logical activity through weekly recordings. They charted the emergence of 
+complex oscillatory waves. They found that organoids quickly settled into a 
+pattern of switching ‘between long periods of quiescence and short bursts of 
+spontaneous network- synchronized spiking’.H These synchronized ‘network 
+events’ became stronger and more frequent over time, while the intervals 
+between events became more variable.
+G Matsui et al. (2021); Shirure et al. (2021); Sun et al. (2022).
+H Trujillo et al. (2019, p. 562).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

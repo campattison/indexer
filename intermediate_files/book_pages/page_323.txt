@@ -1,0 +1,35 @@
+324 
+T() RU,--()-. /R0,10/2)
+In other words, notwithstanding all the di3culties involved in forecasting 
+where the technology will go, I propose we try to develop approaches to regu-
+lation that run ahead of where the technology is now, to mitigate the risk of 
+being caught out by rapid technological change. I will call this idea the run- 
+ahead principle:4
+Proposal 25. The run- ahead principle. At any given time, measures to 
+regulate the development of sentient AI should run ahead of what would 
+be proportionate to the risks posed by current technology, considering 
+also the risks posed by credible future trajectories.
+The run- ahead principle leaves open the question of exactly how restrictive 
+the measures we take now should be. Let’s turn to that question.
+17.1 Metzinger’s Call for a Moratorium
+The philosopher Thomas Metzinger worked between 2018 and 2020 as part 
+of the European Commission’s ‘high- level expert group on AI’, a group tasked 
+with producing ethical guidelines for the AI sector. He became frustrated that 
+long- term risks were being overlooked, dismissed as ‘mere science ﬁction’. 
+The Commission was not, it seems, in favour of the run- ahead principle.
+One of the neglected risks that worried Metzinger was that of an ‘intelli-
+gence explosion’, in which AI becomes vastly superior to humans in its cap-
+abil ities, reaching a point where it has the power to end humanity if it so 
+chooses. I will not discuss that risk here, because it has been much discussed 
+already, and it is fundamentally a risk posed by artiﬁcial intelligence (sentient 
+or not), and my concern here is with sentience. Of more direct concern to 
+Metzinger, and more directly relevant to this book, was the risk of a ‘suﬀering 
+explosion’ or ‘explosion of negative phenomenology’.5
+In a suﬀering explosion, humans create, perhaps unintentionally, vast 
+numbers of suﬀering sentient beings. We may, for example, create legions of 
+artiﬁcial agents to serve human needs round the clock, even though they live 
+joyless lives full of boredom, frustration, exhaustion, and pain. We may be 
+completely oblivious to their sentience. But we might also regard our artiﬁcial 
+4 Sebo and Long (2023) have defended a similar idea.
+5 Metzinger (2021).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

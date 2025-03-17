@@ -1,0 +1,40 @@
+),U?C0) ,F ?I)A B: CD,/0-E?AI( 0-U/ATI,( 
+303
+campaigns for animal welfare. However, if attributions of sentience to AI are 
+mistaken, these campaigns might do harm overall, by distracting attention 
+away from the welfare needs of sentient animals.
+At the same time, we should expect more and more people to develop 
+strong feelings about the individual AI systems in their own lives. If these AI 
+companions are sentient, these feelings might be reciprocated. But if they are 
+not, human lives could become increasingly absurd, as people become ever 
+more devoted to non- sentient companions at the expense of their relation-
+ships with real sentient beings.F All of this means we cannot simply ignore the 
+question of what it takes for an AI system to be a sentience candidate. That 
+debate is coming, whether we are ready or not.
+15.2 Sources of Risk 1: Whole-Brain Emulation
+I will come back to LLMs in the next chapter, but for now I want to pivot 
+away from them to consider three other, relatively under- discussed pathways 
+to arti2cial sentience. As I noted in Chapter 1, the Blake Lemoine controversy 
+was not, in fact, my watershed moment. In 2014, there was an article in the 
+Smithsonian Magazine called ‘We’ve put a worm’s mind in a Lego robot’s 
+body’.G The article described an ambitious project called OpenWorm, the aim 
+of which was to emulate the entire 302- neuron nervous system of hermaph-
+roditic C. elegans in computer sofware.3H
+To emulate, in computing, is to reproduce all the functionality of one sys-
+tem within another system. For example, I can download sofware that emu-
+lates a Nintendo GameBoy within a Windows PC. Emulation can take many 
+forms. The speci2c goal of OpenWorm was to achieve neuron- by- neuron 
+emulation, where the functionality of every single neuron is reproduced in 
+sofware. And that still is the goal: the project began in 2011 is ongoing.33 The 
+main reason for thinking the goal is a realistic one is that the complete map of 
+all the synaptic connections in the brain of C. elegans— its ‘connectome’—has 
+been known since the 1980s, and the map now includes the entire nervous 
+system of both sexes.34
+F Birch (2023c).
+G Fessenden (2014).
+3H C. elegans has two sexes: male and hermaphrodite. The term ‘hermaphrodite’, though oﬀensive 
+when used to describe intersex humans, remains standard in biology for non- human cases (though I 
+would favour changing this).
+33 https://docs.openworm.org/fullhistory/.
+34 Cook et al. (2019).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

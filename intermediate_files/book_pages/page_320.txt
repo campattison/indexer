@@ -1,0 +1,36 @@
+56. /..3 M2, 3..8 N21805A572/AL 1A,O.,4 
+32(
+In this context, the same theories can be a source of markers, or warning 
+signs:
+Proposal 24. Deep computational markers. We can use computational 
+functionalist theories (such as the global workspace theory and the 
+perceptual reality monitoring theory) as sources of deep computational 
+markers of sentience. If we !nd signs that an AI system, even if not 
+deliberately equipped with such features, has implicitly learned ways of 
+recreating them, this should lead us to regard it as a sentience candidate.
+But how do we test for these markers? To repeat, the programmer’s intentions 
+are far from decisive. And, at present, we cannot just ‘open the hood’ on an 
+LLM and see whether the system has found a way to recreate a form of global 
+broadcast or a way of forming representations and tagging them as reliable 
+guides to the world right now, internally generated, or noise. These details are 
+inscrutable from the outside.
+The core of the problem, at least at the time of writing, is that the develop-
+ment of AI has been outpacing the development of techniques for under-
+standing how it works. This is a problem that leaves us unable to answer many 
+of the most pressing questions about AI, not just questions of sentience. I 
+hope for (and also expect) major advances on this front in the next few years.11 
+For now, we can at least be clear about what the problem is. It is not that we 
+lack any method for assessing the sentience candidature of AI— and indeed 
+that sort of blanket scepticism is implausible, given that we con!dently 
+ascribe sentience to many animals and to other humans, and with good reasons. 
+The problem is that, due to the gaming problem, we need to look beyond 
+surface behaviour to the nature of the algorithms the model has implicitly 
+acquired during training. It is currently not clear how to do this. But the good 
+news is that this is a technical problem, not an in- principle problem, and we 
+can hope advances in interpretability will bring solutions.
+These problems notwithstanding, I do see LLMs as legitimate investigation 
+priorities. In my view, research into their possible sentience is important and 
+should be supported. I realize even this is a controversial proposal, since it 
+implies that the possibility of sentient AI should be taken more seriously than 
+11 Zou et al. (2023).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

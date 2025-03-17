@@ -1,0 +1,40 @@
+2E) 
+PU,-./0 1-2 34U/567.2,
+overlapping stimuli can even be achieved in ‘preparations’ of Aplysia where 
+only the mantle organs and abdominal ganglion remain.86 This is a reminder 
+of the importance of looking for more demanding forms of associative learn-
+ing, such as trace conditioning, where there is some evidence in the human 
+case of the involvement of conscious processing. There is also one report in 
+the literature of trace conditioning in (whole) pond snails, but when a pro-
+ced ure involves presenting the snails with olfactory stimuli in the water, then 
+rinsing them for 15 seconds to wash oﬀ the stimulus, it is diFcult to be sure 
+that the CS has entirely gone by the time the US arrives.87
+There is, however, robust evidence of operant conditioning (increased fre-
+quency of rewarded behaviours, decreased frequency of punished behav-
+iours) in both Aplysia sea slugs and Lymnaea pond snails. Sea slugs rewarded 
+for biting will bite more ofen,8B and pond snails (which live in water, but 
+come to the surface to breathe when the water lacks oxygen) will surface for 
+air less ofen if punished for doing so.8C This can be compared against evi-
+dence from Lina Skora and colleagues suggesting (albeit tentatively) that even 
+apparently quite simple operant conditioning tasks require conscious aware-
+ness of the stimuli when a human is performing them. Skora et al. themselves 
+remark that:
+The absence of unconscious instrumental conditioning reported here might 
+seem intriguing in light of previous evidence that instrumental conditioning 
+can proceed in simpler— presumably unconscious— organisms, such as fruit 
+ﬂies (Drosophila), sea slugs (Aplysia), or pond snails (Lymnaea).9D
+We should certainly question the idea that these animals are ‘presumably 
+unconscious’. That said, the tasks posed by Skora et al., though simple for 
+humans, were signi:cantly more complicated than the tasks so far presented 
+to gastropods, because they required subjects to learn diﬀerent conditioned 
+responses to diﬀerent visual cues. Gastropods have so far displayed only the 
+simplest kind of operant conditioning, in which a behaviour is performed 
+less ofen afer punishment and more ofen afer reward. Bjorn Brembs and 
+colleagues report this form of operant conditioning can be achieved even by 
+86 Hawkins et al. (1998). Remarkably, even second- order conditioning was observed in this 
+preparation.
+87 Alexander et al. (1982). Thanks to Eric Schwitzgebel for sending me this reference.
+8B Brembs et al. (2002).
+8C Dalesman et al. (2011); Lukowiak et al. (1996, 1998, 2000).
+9D Skora et al. (2021).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

@@ -1,0 +1,41 @@
+30: 
+AGAI()T C,-./AC0(C1
+up to 1.7 trillion parameters). This leads to the phenomenon of ‘in- context 
+learning’, where a pre- trained LLM, presented by a user with a novel task and 
+feedback on its performance, can apparently learn the task, implementing a 
+learning algorithm it has itself learned and stored in its vast matrices of 
+parameters. It can do this even though, afer training, none of its underlying 
+parameters can be changed. It surprised me and many others that LLMs can 
+do this, and, at the time of writing, disagreement continues to rage about how 
+sophisticated these implicit algorithms are.; It raises a disquieting possibility: 
+as these models get larger and larger, we have no sense of the upper limit on 
+the sophistication of the algorithms they could implicitly learn.
+David Chalmers has discussed this problem in the context of AI sentience. 
+Sceptics, he notes, sometimes claim that LLMs lack any kind of internal 
+model of the external world and their place in it. Now, it is clearly true that no 
+one intentionally programmed any such model into the system. But it remains 
+very unclear what new cognitive structures may be created unexpectedly by 
+the system during its training in order to generate better and better predic-
+tions of how text strings would be completed by a human speaker.7 Perhaps 
+the most eﬃcient solution, if your goal is to mimic the outputs of a human 
+brain, is to recreate cognitive processes present in such a brain.
+A fourth reason against complacency is that the mere idea of sentient AI is 
+likely to have very disruptive eﬀects on society. Even now, LLMs are able to 
+persuade many users of their sentience, including at least one expert (Blake 
+Lemoine), and it seems reasonable to expect that better LLMs will convince a 
+larger number of experts of their sentience, and that their ability to convince 
+members of the general population of their sentience will be stronger still. So 
+far, AI companies have responded to the risk by explicitly instructing their 
+LLMs to describe themselves as non- sentient, but I do not see this as a viable 
+strategy for the long term. It appears many users already disbelieve these pre- 
+programmed denials of sentience. AI companies risk eroding trust if they 
+hide behind false certainties instead of honestly communicating uncertainty.
+Yet this uncertainty, when honestly admitted, threatens to lead to serious 
+socio- political problems. We can expect growing calls for AI systems to 
+receive some level of welfare protection on a precautionary basis, mirroring 
+calls regarding invertebrates. Some will campaign for AI systems to receive a 
+full complement of human rights. It may be that these campaigns will turn 
+out to be well founded and on the right side of history, akin to early 
+; Akyürek et al. (2022); Dai et al. (2022); Von Oswald et al. (2023); Wei et al. (2023).
+7 Chalmers (2023).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

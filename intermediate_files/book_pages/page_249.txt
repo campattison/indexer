@@ -1,0 +1,41 @@
+)CM 
+,-. /0.12.3, /145651,.3
+from octopuses would be hard to defend. It would also rely on tenuous 
+extrapolation from the octopus to nervous systems that are not just far 
+smaller, but also very diﬀerently organized. The same concerns would arise, 
+though less acutely, if we were to generalize from true crabs to all crustaceans, 
+including microscopic crustaceans such as copepods. That is not to say that 
+copepods are not sentient— we cannot rule out sentience in small brains. It is 
+only to say that it would be tenuous to generalize from one case to the other.
+An intermediate approach is to use our best current picture of the phylo-
+genetic relationships between species to make inferences. In the case of the 
+decapods, our best current picture divides the order Decapoda into in two 
+suborders (Dendrobranchiata, Pleocyemata) with the Pleocyemata further 
+subdivided into ten infraorders. This way of classifying decapods is supported 
+by molecular evidence.(; Inferences from a model species to other species of 
+the same infraorder are more strongly supported than inferences stretching 
+across infraorders, or inferences across the Dendrobranchiata/Pleocyemata 
+division. So, that is the approach we took. We reviewed all the evidence we 
+could ﬁnd, noting the particular species being studied, but also making gen-
+eralizations from model species to other species of the same infraorder.
+Even though the cephalopod molluscs sit at a higher ‘rank’ than decapods 
+in Linnaean taxonomy— they are a class rather than an order— there are con-
+siderably fewer known species of cephalopod than decapod: around 750. This 
+gives some sense of the arbitrariness of Linnaean ranks. Ultimately, the phylo-
+genetic relationships between species are more important for underpinning 
+inductive generalizations than Linnaean categories.(9 Here too, we turned to 
+our best current phylogenetic picture to guide our inferences.7D We decided it 
+was reasonable in this case to generalize across orders, such as the order 
+Octopoda, and reasonable in some cases to make generalizations about all 
+coleoid cephalopods (subclass Coleoida, including all octopuses, squid, and 
+cuttleﬁsh) on the basis of evidence from a diverse subset of coleoid species.
+12.8 What We Found, in Brief
+Our review is freely available online and runs to over one hundred pages, 
+covering over three hundred studies, so I will not repeat it here.71 I will 
+instead focus on the way we aggregated evidence and communicated 
+uncertainty— and on some striking examples.
+(; Wolfe et al. (2019).
+(9 de Queiroz (2006).
+7D Tanner et al. (2017).
+71 Birch et al. (2021).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

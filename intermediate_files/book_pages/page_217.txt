@@ -1,0 +1,42 @@
+()E P,­./0E ­1 ­,234­/5 ,E0E3,6) 
+789
+autism, the argument goes, you cannot simply study tissue in culture, but 
+you also cannot study human subjects at the level of mechanistic detail 
+required to understand how, for example, particular alleles and patterns of 
+gene expression may inﬂuence these conditions. So, you must use animals, 
+where the ethical limits on what can be done are more permissive and a 
+broader range of interventions is available.
+This is where neural organoids have tremendous promise. The organoid is 
+a relatively new kind of model system with great potential for replacing inva-
+sive animal research. Organoids are models of organs constructed from 
+pluripotent stem cells. Human stem cells can be used, leading to miniature 
+models of human organs constructed from human tissue. Suppose, for 
+ex ample, you want to understand human kidney function. One option is to 
+study the renal system of a rat or mouse, relying on the idea that this will 
+resemble human kidney function in the ways that matter. But organoid tech-
+nology gives you a new option. You take pluripotent human stem cells and 
+induce them to diﬀerentiate into kidney cells. The kidney organoid you con-
+struct will still diﬀer from a normal kidney in many ways, but you have a 
+degree of control over those ways, and you can be conﬁdent that the genes 
+being expressed are the same as those in human kidney cells, because the 
+cells are human kidney cells.
+When we are talking about kidney organoids, gastrointestinal organoids, 
+cardiac organoids, and other types of non- neural organoid, these develop-
+ments should be celebrated. We should not try to put the brakes on a pro-
+gramme that could turn out to deliver the alternative to animal research that 
+has been so sorely needed for so long.
+But when it is the brain being modelled, the work becomes more contro-
+versial, and rightly so. A neural organoid is a model constructed from pluri-
+potent stem cells induced to form organized neural tissue. Here too, it is the 
+use of human stem cells to create human neural organoids that is generating 
+major scientiﬁc excitement. I will use the term ‘neural organoid’ here, but I 
+note that the term ‘brain organoid’ is also used, and the terms ‘cerebral orga-
+noid’ and ‘cortical organoid’ are ofen used in cases where the organoid is 
+intended to model the human neocortex.
+There are strong ethical reasons in favour of doing this research, if it allows 
+us to model neurological conditions for which scientists currently lack good 
+models, and if it can substitute for invasive animal research. And yet the 
+research invokes the image, if not currently the reality, of a sentient human 
+brain in vitro, and this image ﬁlls many onlookers with a sense of horror. 
+Even when one looks at the research as it is now, it is hard not to feel a certain 
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

@@ -1,0 +1,34 @@
+11
+Neural Organoids
+11.1 The Promise of Organoid Research
+Biomedical research urgently needs new and better alternatives to animal 
+models. The trend in recent decades has been towards increasing reliance on 
+a small number of model species, especially rats, mice, zebraﬁsh, and fruit 
+ﬂies, and towards a troubling level of dependence on assumptions about the 
+relevance of these model systems to human medical conditions.1 Many 
+researchers and funding agencies have invested heavily in the idea that under-
+standing the brain mechanisms of animal models will help us understand 
+complex conditions such as depression, anxiety, autism, or schizophrenia in 
+their human forms. But animal models are far from perfect models, leading to 
+widespread reﬂection on how things could be done diﬀerently.2
+The maxim to ‘replace, reduce, and reﬁne’ was coined more than ﬁfy years 
+ago and is now embedded in frameworks for the regulation of animal 
+research around the world. It crystallizes a point of wide agreement. We 
+should aim to replace animal models with other types of model where pos-
+sible, reduce the numbers of animals being used, and reﬁne experimental 
+techniques to min im ize suﬀering. Yet this maxim has turned out to be com-
+patible with a drastic increase over those same ﬁfy years in the total numbers 
+of animals used.3 If the total number of scientists and labs soars, as it has 
+done in the last ﬁfy years, then the total number of animals used is likely to 
+soar as well, even if every scientist in every lab is sincerely attempting to 
+replace, reduce, and reﬁne.
+So, we have two disquieting trends: growing concern about the ability of 
+biomedical research on animal models to deliver tangible beneﬁt, particu-
+larly in relation to neurological/mental conditions, and a growing realiza- 
+tion that, despite widespread endorsement of the 3Rs, invasive animal 
+research is on the rise, not on the way out. These trends raise the question: 
+what is the alternative? To study a complex condition like depression or 
+1 Farris (2020).
+2 Shemesh and Chen (2023); Taschereau- Dumouchel et al. (2022).
+3 Taylor and Alvarez (2019).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

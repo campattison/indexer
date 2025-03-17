@@ -1,0 +1,42 @@
+326 
+T() RU,--()-. /R0,10/2)
+which types of AI research are in fact running an unacceptably high risk of 
+creating artiﬁcial sentience. Do LLMs run that risk? Is the Perceiver architec-
+ture running that risk? Do generative adversarial networks run that risk? Our 
+understanding of driving allows governments and courts to assess when driv-
+ing is dangerous and to set legal limits; our understanding of sentience does 
+not allow this.
+One way to set the scope of a moratorium would be to draw it around 
+every thing where we can see a clear pathway to sentience candidature 
+(Chapter 15). That would include any research that emulates the nervous sys-
+tem of a biological sentience candidate, neuron by neuron. It would also 
+include work that involves artiﬁcially evolving virtual nervous systems. Any 
+work that attempts to create a minimal implementation of the conditions 
+described by a computational theory of consciousness (e.g. a minimal global 
+workspace) would also be included.
+Such a moratorium would cast a wide net. It would also cast an oddly 
+shaped net, from the point of view of contemporary AI research. It would 
+miss the LLMs that have actually caused widespread debate about the possi-
+bility of their sentience. Meanwhile, the net would catch very simple systems 
+that are generally assumed by their designers to be far from complex enough 
+to support sentience. Yet if we include LLMs and other applications of the 
+transformer architecture, the moratorium at this point essentially becomes 
+unselective: it includes virtually the entire AI sector.
+Despite the serious problem of getting the scope right, I do think 
+Metzinger’s moratorium should be on the table as an option worthy of discus-
+sion. Some kind of moratorium is probably the safest way to remove the risks 
+associated with AI development, just as an eﬀective international mora tor-
+ium, enacted when we had the chance, would have been the safest way to 
+contain the ongoing risks associated with nuclear weapons.
+What beneﬁts would we be foregoing, if we were to go down this route? 
+This will depend on the types of work included in the ban. There is not, on 
+the face of it, much commercial value in emulating animal nervous systems. 
+However, transformers in general, and LLMs in particular, have immense 
+commercial value. It is also worth considering epistemic beneﬁts that might 
+be foregone. For example, we could learn much about living nervous systems 
+by studying their artiﬁcial emulations, which we could manipulate a ﬁner 
+grain than the biological originals (this is the guiding thought behind the 
+OpenWorm project). There might be ethical beneﬁts too, since we might 
+ul tim ate ly be able to replace experimentation on living animals with experi-
+ments on artiﬁcial emulations of those animals, giving us much greater 
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

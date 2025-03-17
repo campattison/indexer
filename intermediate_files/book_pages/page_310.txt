@@ -1,0 +1,38 @@
+)U--A?1 ,F CDA.T0? BP 
+388
+toQ take seriously the idea of sentience in a system without intelligence, 
+embodiment, or agency, simply because it recreates a large- scale computational 
+feature of the human brain credibly linked to sentience, is great.
+This could, I admit, be used as a reason to think large- scale computational 
+functionalism is not a realistic possibility afer all, contrary to the received 
+wisdom in consciousness science. It could also be taken as a sign that, while 
+the general idea should be taken seriously, the particular versions of it in con-
+temporary consciousness science are on the wrong track. Many current the-
+or ies of consciousness appeal to large- scale (or ‘high- level’) computational 
+features quite easily recreated in AI, but perhaps this should be seen as a sign 
+of their immaturity rather than as a reason to worry about their implications 
+for AI sentience.4G However, if we accept that these theories do describe real-
+istic possibilities, we must take seriously the possibility of sentience in near- 
+future AI systems.
+But let us now turn back to the case of LLMs, where yet more problems 
+await.
+15.5 Summary of Chapter 15
+We should not be complacent about the risks of developing sentient AI in the 
+near future. Large language models (to be discussed in the next chapter) 
+already present some risk, because they can implicitly acquire algorithms 
+during training, we have no grip on how sophisticated these algorithms can 
+be, and large- scale computational functionalism is generally considered a 
+realistic possibility in consciousness science (see §3.6).
+Three other pathways to arti2cial sentience candidates are also worth tak-
+ing seriously. The 2rst involves emulating the brains of sentience candidates 
+such as insects, neuron by neuron, based on their connectomes. The resulting 
+virtual brains are sentience candidates if they display the same pattern of 
+behavioural markers that we take as suﬃcient for sentience candidature in the 
+biological original. The second path involves evolving arti2cial agents that 
+converge on similar patterns of behavioural markers to biological sentience 
+candidates. The third involves deliberately implementing a minimal version 
+of a large- scale computational feature (such as a global workspace) that is 
+credibly linked to sentience in humans.
+4G Herzog et al. (2007) have made an argument along these lines, calling it the ‘small network 
+argument’.
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

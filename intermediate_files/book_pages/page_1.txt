@@ -1,0 +1,30 @@
+Summary of the Framework  
+and Proposals
+Precautionary Framework
+A sentient being (in the sense relevant to the present framework) is a system 
+with the capacity to have valenced experiences, such as experiences of pain 
+and pleasure.
+A system S is a sentience candidate if there is an evidence base that (a) 
+implies a realistic possibility of sentience in S that it would be irresponsible to 
+ignore when making policy decisions that will aﬀect S, and (b) is rich enough 
+to allow the identiﬁcation of welfare risks and the design and assessment of 
+precautions.
+A system S is an investigation priority if it falls short of the requirements for 
+sentience candidature, yet (a) further investigation could plausibly lead to the 
+recognition of S as a sentience candidate and (b) S is aﬀected by human activ-
+ity in ways that may call for precautions if S were a sentience candidate.
+Framework Principle 1. A duty to avoid causing gratuitous suﬀering. We 
+ought, at minimum, to avoid causing gratuitous suﬀering to sentient beings 
+either intentionally or through recklessness/negligence. Suﬀering is not gra-
+tuitous if it occurs in the course of a defensible activity despite proportionate 
+attempts to prevent it. Suﬀering is gratuitous if the activity is indefensible or 
+the precautions taken fall short of what is proportionate.
+Framework Principle 2. Sentience candidature can warrant precautions. If S 
+is a sentience candidate, then it is reckless/negligent to make decisions that 
+create risks of suﬀering for S without considering the question of what pre-
+cautions are proportionate to those risks. Reasonable disagreement about 
+proportionality is to be expected, but we ought to reach a policy decision 
+rather than leaving the matter unresolved indeﬁnitely.
+Framework Principle 3. Assessments of proportionality should be informed, 
+democratic, and inclusive. To reach decisions, we should use informed and 
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

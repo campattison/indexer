@@ -1,0 +1,42 @@
+),U?C0) ,F ?I)A B: CD,/0-E?AI( 0-U/ATI,( 
+30J
+human brains, neuron by neuron. They will then be able to expand and 
+accelerate those brains, outstripping human performance. This is a specula-
+tive idea, since we are talking about a system with close to 100 billion neuro ns, 
+not 302. OpenWorm is the present- day reality on which the speculation is 
+based.
+OpenWorm is a useful example for thinking about the relationship between 
+sentience and intelligence. Suppose we had, as the founders of OpenWorm 
+originally hoped, achieved a full emulation of C. elegans in the 2010s. This 
+system would not be an arti2cial sentience candidate, since, on current evi-
+dence, C. elegans is not a sentience candidate, just an investigation priority 
+(see Chapter 13). However, researchers would surely, following this success, 
+press on to larger and more complex nervous systems. We would by now have 
+been seeing projects like OpenDrosophila. Over the longer term, if success 
+continued, we would expect to see ever larger brains being emulated, leading 
+to projects like OpenZebra2sh or OpenMouse.
+Insects, mice, and zebra2sh are sentience candidates. Should we also regard 
+a complete neuron- by- neuron emulation of an insect, 2sh, or mouse navigat-
+ing a virtual environment (or a real one, by means of a robot body) as a sen-
+tience candidate? I say: if it produces the same behavioural proﬁle that led us 
+to attribute sentience candidature to the biological original, then I think we 
+must. It is, of course, conceivable that sentience depends on what happens at 
+very small scales, below the scale of functional organization that one has to 
+reproduce to fully recreate all behaviour. But we should not run that risk. It is 
+clearly a realistic possibility that, by emulating everything that is needed to 
+recreate behaviour, we have thereby recreated sentience as well. And so we 
+should be willing to take precautions against that risk.
+The possibility of achieving arti2cial sentience without anything near to 
+human- level intelligence leads to ethical risks. On the one hand, there is a 
+signi2cant opportunity here: perhaps we could use emulated animal brains as 
+replacements for experimentation on biological animals. On the other hand, 
+the risks of harm need to be considered too. If the emulations are themselves 
+sentient, we might trigger an explosion of suﬀering by experimenting on 
+them without limit. It will not be easy to persuade anyone to take this risk 
+seriously. Afer all, a virtual insect, 2sh, or mouse will not pass any language- 
+based tests for sentience. Their potential sentience is likely to be casually  
+dismissed, just as many have for decades casually dismissed the possibility of 
+sentience in biological insects. There is a danger that these arti2cial sentience 
+candidates will become playthings of their creators, who think none of the 
+usual precautions are needed because the material substrate is diﬀerent.
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

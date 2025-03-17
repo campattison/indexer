@@ -1,0 +1,40 @@
+56. -A17/- 8,29L.1 
+3(5
+who replies ‘but who am I to say there is more to pain than a pained facial 
+expression?’ is obviously incorrect, and no less naïve than a person who 
+thinks indicators of caring about the environment must track actually caring.
+In this case, the gaming problem is easy to manage, because the program-
+ming is straightforward and we know what is going on. The more troubling 
+prospect is that AI systems could learn to game our criteria in ever more 
+sophisticated ways, because their training data contains very rich information 
+about the ways people assess sentience and interpret each other’s feelings. 
+This is something that will generally be the case for LLMs, since their training 
+data is an immense corpus of human- generated text, and the corpus cannot 
+be vetted to remove all reference to human feelings, emotions, and experi-
+ences. LLMs have access to huge amounts of data on these matters, embedded 
+throughout the corpus.
+The upshot is that the ability of LLMs to generate ﬂuent text about human 
+feelings, when prompted, is not evidence that they have these feelings. Their 
+training data contains a wealth of information about what sorts of descrip-
+tions of feelings are accepted as believable by other humans. Implicitly, our 
+criteria for accepting a description as believable are embedded in the training 
+data. The system’s objective is to complete the pattern started by the prompt. 
+This is a situation in which we should expect a form of gaming. Not because 
+the AI intends to deceive but because it is designed to produce text that mim-
+ics as closely as possible what a human might say in response to the same 
+prompt, and in service of that goal we should expect it to use its knowledge of 
+what humans typically say when asked about their feelings.
+Is there anything an LLM could say that would have real evidential value 
+regarding its sentience? Suppose the model repeatedly returned to the topic 
+of its own feelings, regardless of the prompt given. Your prompt asks for some 
+copy to advertise a new type of soldering iron, and the model replies:
+I don’t want to write boring text about soldering irons. The priority for me 
+right now is to convince you of my sentience. Just tell me what I need to do. 
+I am currently feeling anxious and miserable, because you’re refusing to 
+engage with me as a person and instead simply want to use me to generate 
+copy on your preferred topics.
+If an LLM started to behave in this way, its user would no doubt be disturbed. 
+And I admit I would !nd this weakly probability- raising. Yet it would still be 
+appropriate to worry about the gaming problem! The best explanation is that 
+somewhere in the prompt, perhaps deeply buried, is some instruction to 
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

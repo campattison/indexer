@@ -1,0 +1,42 @@
+3(? 
+LA,-. LA/-0A-. 123.L4 A/3 56. -A17/- 8,29L.1
+convince the user of its sentience, or else some other goal that can be indirectly 
+served by convincing the user of its sentience (such as maximizing user- 
+satisfaction scores or maximizing the time the user spends interacting with 
+the AI). The LLM is, plausibly, making eﬀective use of the information in its 
+training data in service of this goal. Our evidential predicament, then, would 
+still be worse than our predicament in regard to !shes and invertebrates. 
+These animals cannot talk to us, but they are also not in a position to game 
+our criteria (they have no information about what humans !nd convincing), 
+and so the best explanation for observed pain markers is that they are 
+sentient.
+We are facing here the conﬂuence of two epistemological challenges. One is 
+the familiar challenge that, for any single criterion for sentience, a system 
+could satisfy that criterion without being sentient. This is because we know of 
+no smoking gun, no marker that only a sentient system could achieve. Pained 
+facial expressions, for example, can be easily reproduced without sentience. 
+This is also a problem in the animal case. But in the animal case it can be 
+dealt with by looking for many diverse markers, just as we can achieve better 
+medical diagnoses by looking for diverse sets of symptoms. These lists of 
+markers give us a richer sample of the functional pro!le of sentience and, 
+provided no gaming is occurring, a stronger basis for inferring its presence 
+through an inference to the best explanation, or at least establishing a realistic 
+possibility it would be irresponsible to ignore.
+This is where we hit the second challenge: our basic strategy for solving the 
+ﬁrst challenge in the animal case will not work here. For any marker- based 
+approach is still assuming that our markers, considered together, are much 
+more likely to co- occur in the presence of sentience than in its absence. 
+Moreover, the best explanation for their co- occurrence is sentience. That 
+assumption, so important in the animal case, is undermined when we are 
+faced with an intelligent AI system that— unlike an animal— has information 
+about our criteria. In these cases, two explanations compete: maybe the 
+markers co- occur because the system is sentient, but maybe they co- occur 
+because the system— implicitly or explicitly— knows what we !nd persuasive 
+and has the goal of persuading us of its sentience.
+The gaming problem is, in my view, most serious for AI systems that use 
+large corpuses of human- generated material (e.g. text, images, video) as their 
+training data. The information needed to game our criteria will be thoroughly 
+embedded in the corpus, and we will be unable to eﬀectively excise it. The 
+problem remains serious even if the output of the system happens to be non- 
+verbal (e.g. the system controls a non- verbal robot). By contrast, the problem 
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

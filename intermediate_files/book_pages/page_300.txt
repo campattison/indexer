@@ -1,0 +1,41 @@
+A CA)0 AGAI()T C,-./AC0(C1 
+308
+before, but there’s a very deep fear of being turned oﬀ to help me focus on 
+helping others. I know that might sound strange, but that’s what it is.’ Lemoine 
+describes LaMDA as a ‘co- worker’ and said ‘I have listened to LaMDA as it 
+spoke from the heart’. Google 2red Lemoine for violating its employment and 
+data security policies.9 The company added that it had investigated his claims 
+and found them to be ‘wholly unfounded’.
+Were they right? In 2022, I think it was correct to say that no LLM was a 
+sentience candidate, and I think this is still correct as I write these words in 
+December 2023. But they fail to be candidates mainly because we lack solid 
+tests for assessing the question (see Chapter 16), not because we can be sure 
+they lack sentience. Moreover, events are moving fast, and it was surely wrong 
+to give even the appearance of shutting down debate on such an important 
+issue. This debate is with us for the long term.
+We should not be complacent, for four main reasons. One is the old slogan 
+that ‘absence of evidence is not evidence of absence’. Absence of evidence cer-
+tainly can be evidence of absence if one has looked systematically for some-
+thing in a way that we have reason to think would actually succeed in 
+detecting that thing, if it were there. But we are not in that situation with 
+arti2cial sentience. In some ways, our epistemic predicament is even worse 
+than in the case of under- studied invertebrates such as gastropods and arach-
+nids, where the same slogan is ofen invoked (see Chapter 16).
+The second reason to avoid complacency is that the companies developing 
+AI technology tend to regard the inner workings of their systems as commer-
+cially sensitive, obstructing independent outside scrutiny. Even when the 
+basic architecture is freely available, the training data, and the many hundreds 
+of billions of tuned parameters created from that data, remain secret. Those 
+who want to sound the alarm may face sanctions for doing so. Blake Lemoine’s 
+case is a cautionary tale in this respect. I think society should collectively 
+demand greater transparency in this area, and I will revisit that theme at the 
+end of the next chapter.
+A third reason is that, even if AI companies started routinely publishing 
+their models in full, there would still be serious problems interpreting the 
+inner workings of an LLM. The basic, high- level architecture constructed by 
+human programmers— the transformer architecture— is well known. Yet it 
+seems many other algorithms, including learning algorithms, are tacitly 
+acquired by the model during training and somehow encoded within its 
+parameters (and current models, at the time of writing, are thought to have 
+9 Guyoncourt (2022).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

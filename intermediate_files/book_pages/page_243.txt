@@ -1,0 +1,40 @@
+)44 
+,-. /0.12.3, /145651,.3
+Crucially, a symptom can be probability- raising overall even if it only raises 
+the probability conditional on some speciﬁc background theory (or set of 
+theories), as long as (a) we assign some non- zero probability to that back-
+ground theory (or set of theories), and (b) the symptom does not lower the 
+probability of sentience on any background theory. In this way, there can be 
+robust agreement around the idea that particular markers raise the probabil-
+ity of sentience, despite continuing disagreement about the correct back-
+ground theory.
+The IME criteria obviously focus on one speciﬁc aspect of sentience, 
+namely pain. We decided to retain that focus in our report, while emphasiz-
+ing that the concept of sentience encompasses far more than just pain. Our 
+reasons for keeping the focus on pain were pragmatic ones, explained later, in 
+§12.7. Even though we decided to retain a focus on pain, we still felt the list 
+required clariﬁcation and revision.
+12.5 Problems with the IME Criteria
+We saw two main problems. First, the criteria (especially the neurobiological 
+criteria) were in some respects too narrow. For example, the reference to 
+opioids in criterion 4 is making an assumption about the type of neuro-
+transmitters that modulate aversive experiences, and this assumption may 
+not be valid for invertebrates. There are many other endogenous neuro-
+transmitters that may potentially modulate aversive experiences. What 
+mattered, in our view, was that the animal’s decision- making in response 
+to threatened or actual noxious stimuli is modulated by neurotransmitters 
+in a way consistent with the experience of pain, distress, or harm. The IME 
+criteria gave too much signiﬁcance to the question of whether the relevant 
+neurotransmitter is an opioid.
+Second, the IME criteria were in some respects too vague and too easy to 
+satisfy. This is especially true of the behavioural criteria, 6 and 7. Regarding 
+criterion 6, it is problematically vague to talk of a response ‘functionally simi-
+lar to the human response’. When we touch a hot stove, we withdraw our 
+hand immediately, but this is just a re:ex. Even though we also experience 
+pain, the pain does not cause the withdrawal of the hand: the pain is felt afer 
+the hand has begun to withdraw. So, ﬁnding a similar re:ex in an animal 
+would not be convincing evidence of pain. We need more reﬁned criteria in 
+order to identify functions that do provide evidence of negatively valenced 
+experiences. We decided that these functions must go beyond re:exes and 
+must implicate valenced states in the central nervous system.
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

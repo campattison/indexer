@@ -1,0 +1,43 @@
+;J 
+T() M+,­-./­0 12/.3)M
+experience at all, and then imagine it producing an egg that generates o!-
+spring with crackling white noise— and the explanatory gap hits us in the face 
+with unusual force. What plausible small mutation could possibly prod uce 
+such an extraordinary change? But this explanatory gap is with us regardless 
+of whether we posit borderline cases. If we posit a region of borderline cases, 
+we will still be able to compare the start point with the end point, and ask: 
+what plausible series of small mutations could possibly produce such an 
+extraordinary change? So, the fact that there is a glaring explanatory gap on 
+the sharp boundary view is not a reason to think it implies dualism any more 
+strongly than the deep gradualist alternative.
+That said, the sharp boundary view still faces the question: what sort of 
+neurobiological or cognitive property might plausibly have a sharp bound-
+ary? Some popular theories of consciousness seem diﬃcult to reconcile with 
+the sharp boundary view if accepted as complete theories. The global neur-
+on al workspace (or global workspace) theory is a good example (Fig. 3.2). 
+Interpreted as a theory of phenomenal consciousness, and not just cognitive 
+access, this theory proposes that content becomes phenomenally conscious 
+when it enters a global workspace mechanism that receives and integrates 
+content from a wide range of sensory, evaluative, and memory processes and 
+broadcasts the integrated content back to the input systems and onward to a 
+wide variety of consumer systems, including mechanisms of voluntary report, 
+planning, reasoning, and decision- making.I3 It is part of the theory that, 
+within an individual human, the entry of a particular representation to the 
+workspace is normally a sharp matter: a representation must be all in or all 
+out, not in to some degree. Yet when we think about other animals, we can 
+expect to ﬁnd a variety of global workspace- like architectures, with variation 
+on both the input side and the output side. The theory is silent on the ques-
+tion of how ‘global’ the broadcast needs to be to qualify as consciousness- 
+generating, and it seems as though any sharp boundary between ‘non- global’ 
+and ‘global’ broadcast would be arbitrary, a point Carruthers has made 
+forcefully.I4
+Other theories, though, seem friendlier to a sharp boundary. For example, 
+Hakwan Lau’s ‘perceptual reality monitoring’ theory proposes that conscious 
+I3 Dehaene and Changeux (2011); Mashour et al. (2020). The basic idea was originally developed 
+by Baars (1988).
+I4 Carruthers (2019). For Carruthers, who (in recent work) regards the global neuronal workspace 
+theory as a true and complete theory of consciousness, the result is massive indeterminacy in the dis-
+tribution of phenomenal consciousness in the natural world. I think this indeterminacy explosion can 
+be resisted (Birch 2020a), but some level of indeterminacy seems likely if the global neuronal work-
+space theory is true.
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

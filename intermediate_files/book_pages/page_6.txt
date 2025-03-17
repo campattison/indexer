@@ -1,0 +1,28 @@
+6 
+SUMMA() O+ ,­. +(AM./O(K A1D P(OPOSA4S
+animal brains could achieve sentience without necessarily displaying impres-
+sive intelligence.
+Proposal 23. The gaming problem. For any set of criteria for sentience candi-
+dature, we need to be aware of the risk of the AI system or its designer learn-
+ing (implicitly or explicitly) that they are regarded as criteria, leading to 
+gaming of the criteria. We need to discount markers we have reason to think 
+may have been gamed.
+Proposal 24. Deep computational markers. We can use computational func-
+tionalist theories (such as the global workspace theory and the perceptual 
+reality monitoring theory) as sources of markers of sentience. If we ﬁnd signs 
+that an AI system, even if not deliberately equipped with such features, has 
+implicitly learned ways of recreating them, this should lead us to regard it as a 
+sentience candidate.
+Proposal 25. The run- ahead principle. At any given time, measures to  regulate 
+the development of sentient AI should run ahead of what would be propor-
+tionate to the risks posed by current technology, considering also the risks 
+posed by credible future trajectories.
+Proposal 26. Codes of good practice and licensing (II). There should be a 
+licensing scheme for companies attempting to create artiﬁcial sentience can-
+didates, or whose work creates even a small risk of doing so, even if this is not 
+an explicit aim. Obtaining a license should be dependent on signing up to 
+(and, where necessary, funding the creation of ) a code of good practice for 
+this type of work that includes norms of transparency.
+The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI. Jonathan Birch, Oxford University Press. 
+© Jonathan Birch 2024. DOI: 10.1093/9780191966729.003.0001
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

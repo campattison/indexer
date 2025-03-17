@@ -1,0 +1,44 @@
+T() 2)3)E7,T 6:73) /F F9,:T+/,73 /287,+R7T+/, 
+6A
+someone sympathetic to substrate sensitivity will doubt the reliability of 
+introspective reports a4er the insertion of the implant. They will suspect that 
+a loss of phenomenology is slipping under the radar of the subject’s intro-
+spective mechanisms, which continue to receive the same informational 
+inputs as before, leading to (mistaken) conﬁdence that nothing has changed.HH
+These objections do not just lead me to have doubts about the chip test— 
+they also lead to doubts about the standard way of framing the debate. The 
+brain has functional organization at many diﬀerent levels of analysis, from the 
+high- level connectivity of large brain regions right down to the functioning 
+within individual neurons, with many levels in between. Marr’s three levels of 
+analysis— the computational level, the algorithmic level, and the implementa-
+tion levelHI—are a good starting point, but they subdivide into yet ﬁner levels, 
+and in reality I think that even to talk of ‘levels’ is to impose a degree of artiﬁ-
+cial discreteness on continuous variation in the scale of functional organiza-
+tion.HK And to change the substrate (in any physically possible way) is to 
+change many functional properties at smaller scales. Various views are then 
+possible about how conscious experience and person- level cognitive pro-
+cesses (such as introspection) relate to these small- scale functions.
+It is reasonable to think functional organization at small scales probably 
+matters— and to doubt the idea of AI sentience for this reason.HL It is im port-
+ant, though, that we do not allow our doubts to become false certainties. 
+When thinking about risk and precaution, it is crucial to also take seriously 
+the opposite view: a view on which only large- scale features of the computa-
+tional architecture— such as the presence or absence of a global workspace or 
+perceptual reality monitoring— need to be recreated in an artiﬁcial system for 
+sentience to also be recreated. I will call this view large- scale computational 
+functionalism. The tenability of large- scale computational functionalism has 
+wide- ranging implications for the edge of sentience, because it implies a need 
+to take seriously the possibility of sentience in systems that implement a gen-
+eral type of computation credibly linked to sentience in humans, even if the 
+precise algorithms and the hardware implementation both di!er a great deal.
+HH Udell and Schwitzgebel (2021). Chalmers’s ‘fading qualia’ thought experiment faces a related 
+problem. Chalmers says it is implausible to suppose a subject would mistakenly think their phe -
+nomen ology was unaltered by a partial change of substrate. A4er all, their brain is functioning just as 
+well as before. But someone sympathetic to substrate sensitivity will not accept that preserving func-
+tional organization at the neuronal level suﬃces for preserving functional organization at the person 
+level. They will suspect the person’s capacity for introspection will become unreliable.
+HI Marr (1982).
+HK Potochnik and McGill (2012). Shevlin (2021) has discussed related issues under the heading of 
+‘the speciﬁcity problem’.
+HL See Aru et al. (in press); Godfrey- Smith (2016a); Seth (2021) for versions of such views.
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

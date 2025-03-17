@@ -1,0 +1,42 @@
+),U?C0) ,F ?I)A L 
+30O
+workspace, we must downplay the aspects of the global workspace just 
+mentioned, since the local processors, though providing input in a range of 
+modalities, are not specialized in sensory, motor, evaluative, and mnemonic 
+functions. There is, admittedly, a form of ‘attention’, whereby the most rele-
+vant statistical connections between (for example) diﬀerent words are se lect-
+ive ly ampli2ed, and indeed this selective ampli2cation lies at the heart of the 
+capabilities of transformers. Yet this form of attention ‘has only loose connec-
+tions to how attention is conceptualised in neuroscience’.44 Attention in the 
+brain is usually considered to have a top- down element, relying on recurrent 
+connections between higher and lower parts of processing hierarchies, and 
+these recurrent connections are absent in transformers.
+There is also no broadcast as such in this architecture, let alone global 
+broadcast.46 The output is always to a speci2c output module, even though 
+any one of a range of output modules may be selected. At the core of the 
+global workspace theory is a special type of recurrent processing— the work-
+space broadcasts back to the local processors that provide it with input— and 
+this is absent in transformers, as is recurrent processing more generally. 
+Ironically, transformers, for their remarkable linguistic abilities, appear to 
+have moved the AI industry away from architectures more closely inspired by 
+the brain and more likely to recreate architectures like the global workspace. 
+Whereas many earlier forms of AI involved recurrent processing of various 
+kinds, transformers do not.
+That said, it is not clear that any aspect of the global workspace architec-
+ture is inherently diﬃcult to implement computationally. If AI researchers 
+deliberately try to replicate all its key features, there is no reason to think they 
+will fail. Our working group could 2nd ‘no obvious technical barriers’ to rec-
+reating a minimal global workspace in AI.47 We felt this was something that 
+could be achieved very soon.
+The situation is more complicated regarding Hakwan Lau’s ‘perceptual 
+reality monitoring’ theory of consciousness.49 On the face of it, this looks 
+even easier to recreate than a global workspace: it just requires sensory pro-
+cessing, plus a second unit that looks in on the sensory processing, classify-
+ing the sensory representations as reliable representations of the present 
+external world, as internally generated, or as noise. That classi2cation task is 
+44 Butlin et al. (2023, p. 28). The work of one of our team members, Grace Lindsay, was particularly 
+important here (Lindsay 2020).
+46 Butlin et al. (2023, p. 60).
+47 Butlin et al. (2023). See also VanRullen and Kanai (2021) and Goyal et al. (2022).
+49 Lau (2022).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

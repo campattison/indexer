@@ -1,0 +1,42 @@
+%7K 
+()O(+) ,-./ 0-1O20)21 O3 4O514-O615)11
+a high- pro8le study from Jan Claassen and colleagues tested an EEG- based 
+technique on 104 patients with disorders of consciousness.14 A machine 
+learning algorithm (a support vector machine classi8er) was tasked with 
+guessing, on the basis of a bedside EEG recording of a patient, the spoken 
+commands the patient had been given. The commands given were ‘keep 
+opening and closing your right[/lef] hand’ and ‘stop opening and closing 
+your right[/lef] hand’.1B For each patient, the classi8er’s performance was 
+evaluated by comparing its guesses about the spoken commands (as 
+inferred from the EEG) to the actual commands. The headline result: in 
+16/104 patients, signi8cantly above- chance classi8er performance was 
+obtained, leading the authors to the striking conclusion that ‘of the 104 
+patients, 16 (15%) had cognitive–motor dissociation detected on at least 
+one recording’.1C
+Concerns about false negatives remain, of course: some unresponsive 
+patients may be conscious and yet unable to form even very simple motor 
+commands. However, there is also a risk of false positives. This risk arises 
+from the fact that, despite the sophistication of modern machine learning, 
+a patient responding to commands can still be easily confused with ran-
+dom statistical noise. ‘Above- chance’ classi8er performance will sometimes 
+be explained by responding but will sometimes be explained by random 
+variation— a string of lucky guesses. Claassen and colleagues themselves 
+observe in their supplementary information that, since 104 patients were 
+studied, ‘it is likely that amongst the 16 CMD patients, 8ve were classi8ed 
+as CMD because of statistical 7uctuations rather than actual spoken com-
+mand following’.1F
+These notes of caution are not reasons to stop developing and using EEG- 
+and neuroimaging- based techniques. They are, however, reasons not to see 
+these techniques as a panacea that can make our uncertainty go away. They 
+can help us obtain relevant evidence that shiAs probabilities— a strong reason 
+to develop and use them— but agonizing uncertainty will remain and will 
+need to be carefully managed.1G
+14 Claassen et al. (2019).
+1B The algorithm was trained separately on each patient. This is called an ‘individualized classi8er’ 
+approach, since the classi8er is trained anew on every patient’s personal EEG data. This strategy can 
+be contrasted with a ‘general classi8er’ approach that seeks to generalize from a training set of patients 
+to a new patient.
+1C Claassen et al. (2019, p. 2501).
+1F Claassen et al. (2019, supplementary information, p. 13).
+1G See Birch (2023a) for a detailed discussion of the Claasen et al. study.
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

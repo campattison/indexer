@@ -1,0 +1,42 @@
+380 
+AGAI()T C,-./AC0(C1
+not fundamentally diﬃcult. As Lau acknowledges, the whole theory is sub-
+stantially inspired by generative adversarial networks (GANs) in machine 
+learning. In a GAN, a ‘discriminator’ network is tasked with classifying the 
+output images of a ‘generator’ network as either self- generated or externally 
+generated. The task of the generator is to produce images so lifelike that they 
+fool the discriminator. Both generator and discriminator can quickly develop 
+impressive competence at their tasks.
+Lau accepts that a consequence of his theory is that it ‘predicts that very 
+simple computer programs and robots may be conscious’.4; It does not follow 
+that they may be sentient in the way we have been using the term, because 
+that requires, in addition, valenced experience. For this, the system would 
+need a unit for evaluative representation, plus an ‘evaluative reality monitor-
+ing’ unit looking in on this evaluation system, discriminating between real 
+evaluations of current states of the body and world, imagined evaluative 
+states, and mere noise. However, the shif from perceptual to evaluative real-
+ity monitoring does not appear to introduce any major new computational 
+challenges.
+Our working group, when investigating how easy it would be to recreate 
+this architecture in AI, realized that Lau also intended a further requirement 
+to be part of the theory: the monitoring system must form part of a rational 
+agent with beliefs, desires, and plans, such that the classi2cation of represen-
+tations as external reality, internal reality, or noise informs its rational 
+planning.47 Lau, then, falls on the ‘agency required’ side of the metaphysical 
+choice point considered in §3.5. And so, the ease of recreating the whole 
+architecture in AI depends a great deal on how easy it is to recreate beliefs, 
+desires, and rational agency in AI— another cluster of controversies. However, 
+on de5ationary views of what it is to have beliefs and desires and to be a 
+rational agent (such as Dennett’s ‘intentional stance’ view),4F these require-
+ments too may be straightforwardly achieved.
+I 2nd the overall situation puzzling and troubling. Current technology pre-
+sents no obvious barriers to the creation of minimal global workspaces or 
+minimal forms of perceptual/evaluative reality monitoring. However, it is 
+very counterintuitive to think that such a creation should be considered a 
+sentience candidate, because these systems may be very simple indeed, lack-
+ing both impressive intelligence (if trained on only a small amount of training 
+data) and biological embodiment or agency. The imaginative leap required 
+4; Lau (2022, p. 131).
+47 Butlin et al. (2023, p. 31); Michel and Lau (2021b).
+4F Dennett (1987).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

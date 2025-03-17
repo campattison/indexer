@@ -1,0 +1,38 @@
+32L 
+LA,-. LA/-0A-. 123.L4 A/3 56. -A17/- 8,29L.1
+While I agree that looking for deep computational analogies between LLMs 
+and brains is indeed a sensible approach (see the next section), this takes us 
+away from the initial aim of providing a purely behavioural test. Moreover, if 
+we were able to identify ‘analogues to human or nonhuman animal brain net-
+works underlying consciousness’, I think the right response would be to 
+regard the system as a sentience candidate on the basis of this alone, without 
+worrying about whether it also answers the ACT questions well. The attrac-
+tion of a behavioural test is that it spares us having to understand the inner 
+workings of systems that are largely opaque to us, and to take a view on which 
+computational features are relevant to consciousness and why, but the revised 
+proposal has lost this attraction. What we are le: with is a part- behavioural, 
+part- computational criterion in which the computational side is enough by 
+itself, leaving the behavioural part redundant.
+16.3 The Need for Deep Computational Markers
+Our working party in 2022–2023 agreed that there is simply no way to assess 
+sentience in an LLM on the basis of its linguistic behaviour, given the gaming 
+problem. I think we would all have liked this to be wrong, but could see no 
+way out of it. Sentience candidature is much easier to establish than sentience 
+simpliciter, but it still requires some positive evidence, and it therefore still 
+requires some markers that are not undermined by gaming. This points to the 
+need to look for deep computational markers of sentience, below the level of 
+surface behaviour, that the AI system is unable to game. Schneider, originally 
+a proponent of purely behavioural tests, seems to have come round to the 
+same view, in so far as her revised proposal calls for ‘analogues to human or 
+nonhuman animal brain networks underlying consciousness’.
+What form might these deep computational markers take? In §15.5, we 
+looked to theories of consciousness in the large- scale computational func-
+tionalist family, such as the global workspace theory and the perceptual 
+reality monitoring theory. There the argument was that, while current 
+transformers do not realize these architectures, at least not intentionally, 
+there are no obvious technical barriers to realizing them in the near future. 
+However, this was a point about the architecture as intentionally designed 
+by the programmer. With LLMs, we must also ask what other algorithms 
+the model has unexpectedly picked up during training (a  question that 
+does not arise for small models with the same basic architecture).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

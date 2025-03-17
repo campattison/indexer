@@ -1,0 +1,39 @@
+32B 
+T() RU,--()-. /R0,10/2)
+A separate problem is that I am sceptical of the idea that there will ever be a 
+‘deﬁnitive test’. This is partly because I suspect the zone of reasonable dis-
+agree ment regarding theories of consciousness will always be wide (see 
+Chapters 3 and 5). But it is also that, even when the goal is criteria for sen-
+tience candidature, not sentience simpliciter, evidence of sentience never 
+seems to take the form of a single decisive test, or smoking gun. We always 
+ﬁnd ourselves piecing together a picture from many diﬀerent lines of evi-
+dence. Given this, I think we will we will always be in the territory of the third 
+proposal, faced with cases where we have some inconclusive reasons to 
+believe the AI is sentient.
+As it stands, however, the third proposal seems underspeciﬁed. The pro-
+posal is that, if there is ‘some reason’ to think the system sentient, then it 
+deserves the same legal protections as other sentient beings. But there are 
+many jurisdictions in which sentient animals receive woefully inadequate 
+legal protection. So if the principle is simply one of parity in the eyes of the 
+law, that may just as easily involve levelling down as levelling up. For ex ample, 
+in a jurisdiction in which lab rats receive no protection, some may argue: this 
+AI’s claim to protection can be no stronger than a lab rat’s claim, and lab rats 
+receive no legal protections, so neither should this AI. What we need is level-
+ling up: laws strong enough to protect sentient beings against gratuitous suf-
+fering, applied consistently to biological and artiﬁcial sentience candidates. 
+But then the burden lies on us, as defenders of this idea, to say what such a 
+law might say.
+17.3 Will We Soon Need an AI Welfare Law?
+What models can we draw upon, if we want to design good law in this area? 
+Good examples of animal welfare law can serve as inspiration. We have two 
+centuries of animal welfare law to draw upon. All of it imperfect, much of it 
+seriously Cawed, but, for all that, a rich source of information about what 
+might or might not work.
+In Chapter 14, I proposed licensing schemes and codes of good practice for 
+new attempts to farm sentience candidates. This proposal draws on elements 
+of how animal experimentation and animal farming are regulated in the UK. 
+The goal is to create a structure in which innovation in farming is possible, 
+but only as long as companies subscribe to published, enforceable codes of 
+practice that compel them to be appropriately humane towards the animals 
+in their care. Cases of completely uncontrolled innovation, where innovation 
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

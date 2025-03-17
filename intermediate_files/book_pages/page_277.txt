@@ -1,0 +1,42 @@
+2EG 
+PU,-./0 1-2 34U/567.2,
+hunting behaviours that appear to involve an element of strategic planning. 
+When a Portia spider is placed on a platform from which it can see two walk-
+ways leading to its prey, one with an unjumpable gap in it and one without, it 
+will scan the options and then reliably choose the route with no gap, even if it 
+is longer and more circuitous. This ‘detour’ behaviour has been extensively 
+documented by Fiona Cross, Robert Jackson, and collaborators over many 
+years.;2
+Is Portia planning ahead, mentally simulating possible routes and choosing 
+the one most likely to lead to reward, just as rats are ofen thought to do in 
+similar circumstances?;8 Cross, Jackson, and colleagues :nd this the best 
+explanation of their data. Louise Barrett has criticized this idea, arguing that 
+Portia is more likely to be implementing a line- break detection algorithm 
+characterized by three simple rules: keep scanning in the same direction until 
+a break in a horizontal line is detected; if a break is detected, change the 
+direction of scanning; walk in the direction that was most strongly :xated 
+during scanning.;9 Cross and Jackson replied that this explanation does not 
+explain all aspects of the behaviour, such as the observation that Portia will 
+take the shorter and more direct of two paths, when able to choose between 
+two unbroken paths.;;
+This does not settle the issue: it is easy to imagine a critic :ring back with a 
+more elaborate algorithm to explain the additional data. But we should be 
+clear about where exactly the disagreement lies. The disagreement is not over 
+whether Portia is implementing an algorithm (all agree there is computation 
+involved), but one about whether the algorithm is performing a form of pro-
+spective simulation or simply applying a set of heuristic rules that shortcut 
+the need for simulation. That debate is challenging to adjudicate without the 
+sort of neurophysiological data that seem to tilt the balance of evidence 
+towards simulation in the case of rats. Clearly, though, these experiments give 
+us reason to think it would be well worth trying sentience- related paradigms 
+with Portia, such as conditioned place avoidance experiments and mo tiv-
+ation al trade- oﬀ experiments. More lines of evidence would start to give us a 
+case resembling that already made for insects.
+Some of Cross and Jackson’s experiments also point towards a form of 
+short- term memory in Portia. In one experiment, they presented Portia with 
+a prey item, allowed the spider to position itself ready for an attack, then hid 
+;2 Cross and Jackson (2014, 2016, 2019); Cross et al. (2020).
+;8 On rats, see Redish (2016).
+;9 L. Barrett (2011).
+;; Cross and Jackson (2019).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

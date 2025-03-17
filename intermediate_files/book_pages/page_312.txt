@@ -1,0 +1,32 @@
+16
+Large Language Models and the  
+Gaming Problem
+16.1 The Gaming Problem: When the System  
+Knows the Criteria
+In the last chapter, I emphasized that the !rst arti!cial sentience candidates 
+will not necessarily impress us with their intelligence. Sentience does not 
+require or imply any particular level of intelligence. Yet intelligence and sen-
+tience are methodologically linked, as we see in the case of other animals. 
+Intelligence can make sentience easier to detect, because an intelligent animal 
+has more ways in which it can manifest its sentience to observers. The AI 
+case, however, shows us that intelligence of certain kinds can also make it 
+more diﬃcult to assess the likelihood of sentience. For the more intelligent a 
+system is, the more likely it will be able to game our criteria.1
+What is it to ‘game’ a set of criteria? When we construct lists of criteria or 
+markers for sentience, we have no reason to suppose that they are even jointly 
+suﬃcient for sentience, or that they capture the whole functional pro!le of 
+sentience. Much more likely is that our current lists of markers include a 
+small sample from a much larger cluster of functional properties, along with 
+some errors (i.e. some properties that are not really markers at all).2 Many 
+properties in this larger cluster are currently unknown, and there will probably 
+be some of which we have not even conceived. We are trying to detect sen-
+tience through a small, partial set of its eﬀects. In such a situation, there is a 
+risk of a system gaming the criteria in the sense that it may reproduce the 
+speci!c small sample of eﬀects we happen to have proposed as markers, 
+because they are regarded as markers, without possessing the underlying 
+capacity they are intended to be markers of.
+Consider an analogy. I once managed the !nances of a small charity, and 
+I tried to !nd ways of divesting the charity from fossil fuels. I learned that 
+1 This section draws on my contributions to Andrews and Birch (2023).
+2 Shea and Bayne (2010); Shea (2011).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

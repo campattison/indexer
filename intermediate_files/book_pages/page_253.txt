@@ -1,0 +1,39 @@
+)C4 
+,-. /0.12.3, /145651,.3
+Why is conditioned place avoidance a source of insight into sentience? It is 
+signiﬁcant that it is not just an instance of classical conditioning, in which a 
+pattern on the wall is paired with a noxious stimulus, and so comes to elicit 
+the same response as that stimulus. If that were all that was happening, we 
+would expect the visual stimulus of the chamber walls to elicit the same 
+response as acetic acid: skin- scraping. But what in fact happens is more 
+sophisticated: the animal’s preferences change. To explain this, we need to 
+posit a system that is evaluating locations in the environment for their associ-
+ated risks and rewards based on past experience, navigating the animal 
+towards opportunity and away from risk. That is, we need to posit exactly the 
+sort of central evaluation system that, on Merker’s theory, is suﬃcient for 
+sentience.
+Example 2: ‘Anxiety-Like States’ in Crayﬁsh
+Physiological stress, deﬁned as any situation that disrupts homeostasis, is not 
+itself a marker of sentience. Any living system has mechanisms to maintain 
+homeostasis in the face of perturbations, so this alone does not help us draw 
+any distinction between sentient and non- sentient life. Yet inducing stress is a 
+common component of many experiments probing sentience, because the 
+way in which an animal responds to stress can oﬀer relevant evidence. When 
+an animal responds to stress in ways that indicate centralized evaluation of 
+opportunities and risks— with stress altering the value of the options in ways 
+that can be experimentally manipulated— we have some evidence of the sort 
+of centralized evaluative modelling that is credibly linked to sentience.
+An impressive series of studies by a team at the University of Bordeaux has 
+used this strategy to obtain evidence of ‘anxiety- like’ states in the crayﬁsh 
+Procambarus clarkii. In the ﬁrst study, crayﬁsh were placed in a maze in 
+which they were free to explore both light and dark arms. When electrical 
+ﬁelds were used to induce physiological stress in the animals, they became 
+substantially less willing to enter the light arms. There was evidence that the 
+eﬀect was mediated by endogenous serotonin, a neurotransmitter linked to 
+anxiety and depression in humans. The mechanisms are plainly not the same 
+as those in the human brain. Yet it turned out, remarkably, that administering 
+a common anti- anxiety drug designed for humans, chlordiazepoxide (ofen 
+sold as Librium), restored a willingness to explore the light arms in the 
+stressed crayﬁsh, relative to a control group injected with saline. The authors 
+argued that this pattern of results pointed to the existence of a brain state 
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

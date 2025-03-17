@@ -1,0 +1,59 @@
+30N 
+AGAI()T C,-./AC0(C1
+A global workspace is not just any broadcast mechanism. The global work-
+space theory ties conscious experience to a speci2c kind of broadcast mech-
+an ism, whereby information from a range of sensory, motor, evaluative, and 
+memory systems competes for access to a central workspace. Content that 
+enters the workspace is then broadcast back to the input systems, as well as 
+onwards to a wide range of consumer systems (see §3.1).4H To provide a min-
+imal realization of this architecture, a system would need sensorimotor, 
+evalu ative, and mnemonic capabilities.
+A team of researchers at AI startup Araya Inc. has claimed that the Perceiver 
+architecture (a multimodal variant of the transformer architecture developed 
+by DeepMind in 2021, in which various input modules compete for access to 
+a central ‘workspace’, which can then output to any of a range of output mod-
+ules) implements a minimal global workspace (Fig. 15.1).43 Note that the 
+argument here does not rely on any implicit learning from a vast corpus of 
+training data. The idea is that the architecture, as intended by the program-
+mers, already amounts to a global workspace— and would still do so even if 
+we trained the model on a tiny amount of training data.
+In 2022–2023, I participated in a multidisciplinary working group, assem-
+bled by Patrick Butlin and Rob Long (and including Yoshua Bengio, one of 
+the so- called ‘godfathers of AI’), that considered these claims and came to 
+quite a sceptical view. To interpret the Perceiver architecture as a global 
+4H Dehaene (2014); Mashour et al. (2020).
+43 See Jaegle et al. (2021) for the original architecture and Juliani et al. (2022) for its interpretation 
+as a global workspace.
+Perceiver
+Workspace
+Modules
+(Input)
+Modules
+(Input)
+Modules
+(Output)
+Query
+Query
+Query
+Key
+Key
+Key
+Value
+Value
+Cross-
+Attention
+Cross-
+Attention
+Perceiver
+Workspace
+Perceiver
+Workspace
+Self-
+Attention
+Value
+Fig. 15.1 The Perceiver architecture. A multimodal transformer architecture 
+developed by DeepMind, said by Juliani et al. (2022) to resemble the global 
+workspace theory of consciousness. Various input modules, afer the input is 
+modulated by ‘attention’, compete for entry to a workspace which then broadcasts 
+to a selected output module. Figure from Juliani et al. (2022), CC- BY 4.0.
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

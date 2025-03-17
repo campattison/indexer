@@ -1,0 +1,39 @@
+54L 
+I(VO2VI() TH, 13B2I?
+7.4 Objections to Citizens’ Panels: Representativeness, 
+Deference, Competence
+Representativeness
+Worries about the representativeness of citizens’ panels arise even if we 
+assume they should only represent human interests. These concerns only 
+deepen when we want the panels to consider non- human interests too. Let us 
+start with the ﬁrst type of concern, and see whether the solutions we arrive at 
+can help us with the second type of concern.
+If citizens’ panels are to represent the values and interests of the wider 
+population, they must resemble that population. They therefore need to be 
+large enough to make their statistical representativeness very likely given the 
+law of large numbers. Hélène Landemore has proposed a minimum size of 
+150. Alexander Guerrero has suggested an ideal size of 300, but in more 
+recent work revises this upwards to 450.:H
+Although both Guerrero and Landemore downplay it, the need for repre-
+sentativeness highlights a diﬃcult challenge of institutional design. Polling 
+companies usually work with samples of at least 1,000 in order to be conﬁ-
+dent of their representativeness. These samples, since they rely on voluntary 
+participation, still tend to depart from the wider population regarding some 
+demographic variables, such as the relative frequencies of di;erent socioeco-
+nomic groups. To correct for this, polling companies will re- weight their data 
+using elaborate formulas. This re- weighting involves value judgements, and 
+sometimes leads to controversy even when the poll is simply an opinion poll, 
+with no role in decision- making at all. I once generated some controversy on 
+this issue myself when I highlighted that voting intention polls tend to give less 
+weight to the opinions of younger and working- class voters, since they are 
+considered less likely to vote by the polling companies’ weighting models.:8
+Yet for a citizens’ panel or assembly, even 1,000 is already very large indeed. 
+A panel of 1,000 cannot engage in deliberation as a single panel. The opti-
+mum panel size for the purposes of deliberation is closer to the size of a jury 
+or a typical committee: 10–25 people. The proposed ﬁgures of at least 150, 
+300, and 450 are compromises between two very di;erent optima.
+One option is to adopt a ﬁssion- fusion design, whereby a panel hears evi-
+dence together, then breaks into smaller, equally sized discussion groups for 
+:H Landemore (2020); Guerrero (2014, 2021).
+:8 Birch (2017e).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

@@ -1,0 +1,60 @@
+76G 
+D04A()NG -R,-,R(),NA/)(5
+A probability yardstick is a standardized protocol for assigning verbal, 
+qualitative labels to probability ranges. An inﬂuential example is the PHIA 
+(Professional Head of Intelligence Assessment) probability yardstick, widely 
+used in UK government circles since 2018 (Fig. 8.1). This yardstick maps the 
+terms ‘remote chance’, ‘highly unlikely’, ‘unlikely’, ‘realistic possibility’, ‘likely/
+probably’, ‘highly likely’ and ‘almost certain’ to ranges of probabilities.
+The PHIA yardstick is far from perfect. To require 40 per cent probability 
+before being willing to describe an outcome as a ‘realistic possibility’ seems 
+unwarranted. And to call something a ‘remote chance’ when it has a probabil-
+ity of 5 per cent seems problematic too (one in twenty is not that remote). 
+IDalso fear that the word ‘likely’ covers too big a range, including outcomes 
+that are slightly more likely than not (~55 per cent), outcomes that are mod-
+erately likely (~60–70 per cent), and outcomes that have a ~75 per cent 
+ probability of occurring.
+Yet this starting point illustrates the general idea. My proposal is not that 
+we adopt this particular yardstick but rather that, in any citizens’ panel, a 
+yardstick of some kind should be used to standardize the use of probabilistic 
+language. Experts should say, for example: ‘I/we have high conﬁdence that 
+Option 1 will reduce the probability of causing harm, and that, although there 
+will still be a remote chance of causing harm, this will be much reduced from 
+the present situation, where harm is likely.’
+Test 3: Reasonable Necessity
+Policy responses should not impose harms or costs that go beyond what is rea-
+sonably necessary to achieve adequacy. The issue arises because there will oCen 
+be a temptation to tack extra measures on to a package that is already adequate.
+5% 10%
+20%
+35% 40%
+55%
+80%
+90%95%
+Almost
+certain
+Highly
+likely
+Likely or
+probable
+Realistic
+possibility
+Unlikely
+Highly
+unlikely
+Remote
+chance
+0
+1/4
+1/2
+3/4
+1
+0%
+25%
+50%
+75%
+100%
+Fig. 8.1  The PHIA probability yardstick. Versions of this yardstick can be found 
+frequently in UK government documents. Public sector information licensed 
+under the Open Government Licence v3.0.
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

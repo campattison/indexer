@@ -1,0 +1,41 @@
+D022 D) 9;;, ,)). -, -0 D)2:-R) 2-DE 
+32F
+outruns any established code of practice for animal care (and octopus farms 
+come to mind here), would be ruled out. Could something like this work for 
+sentience- relevant AI research?
+Part of the problem is that it is unclear what a code of good practice for this 
+type of work should contain. Obvious suggestions include: (i) a rationale for 
+the work must be produced, explaining how the potential beneﬁts (e.g. 
+replacing animal research) may balance the risks; (ii) an appropriately inde-
+pendent panel must evaluate the rationale; (iii) a requirement for immediate 
+publication of any observations of behaviours that, in animals, are regarded 
+as markers of sentience, so that the community can evaluate these markers; 
+(iv) transparency about what work is being done, and how many artiﬁcial 
+sentience candidates and of what type are being produced by the work.
+These suggestions, tentative though they are, immediately raise a problem: 
+meaningful regulation and scrutiny tends to require a level of transparency 
+that technology companies tend to resist. This has already led to debate in the 
+context of medical AI: a cancer- screening algorithm designed by Google 
+DeepMind was published in the prestigious scientiﬁc journal Nature, but 
+then faced criticism that, in the absence of any openly accessible code or 
+detail on the algorithm, the article was in essence an advertisement rather 
+than a scientiﬁc publication.G It is understandable that companies do not 
+want to reveal details of their proprietary research in a competitive environ-
+ment, but I think we need our governments to be strong enough to put limits 
+on secrecy in this area.
+The regulation of animal research could be a useful model. In the UK and 
+many other countries, it is illegal to carry out research on sentient animals 
+wholly in secret: there is a licensing process in which the nature of the work 
+must be explained and justiﬁed to independent panel members. It is recog-
+nized, in this context, that the need for proper ethical scrutiny and oversight 
+outweighs the desirability of letting companies innovate in perfect secrecy. 
+The process can still protect conﬁdentiality, since the panel members have 
+strict obligations not to divulge information shared in conﬁdence. We need 
+ethical review panels like these for AI research too.
+The problem of scope also arises for this new proposal. I have not evaded 
+it. We now have to decide which work needs to be carried out in accordance 
+with an industry- wide, enforceable code of practice with independent over-
+sight, and which does not. And we again seem to have two bad options: cast 
+the net so wide that all AI research is aﬀected, or limit the scope to research 
+G McKinney et al. (2020), criticized by Haibe- Kains et al. (2020).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

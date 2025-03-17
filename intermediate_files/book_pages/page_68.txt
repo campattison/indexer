@@ -1,0 +1,43 @@
+6? 
+T() M+,­-./­0 12/.3)M
+developed to replace various human cognitive and perceptual functions. This 
+will allow opportunities to test whether there is any associated loss of phe-
+nom en ology when a function is taken over by an implant. For example, if we 
+replace primary visual cortex with a functionally equivalent implant, does the 
+subject report a total loss of visual phenomenology (similar to blindsight: see 
+§5.2), unaltered visual phenomenology, or something in between: visual phe-
+nom en ology that is still present but strangely altered? The idea is that, if the 
+replacement robustly leads to loss of phenomenology, no matter how close 
+the functional match gets, then this is evidence that the substrate itself is 
+responsible for that loss— substrate sensitivity. Alternatively, if the visual phe-
+nom en ology is unaltered, that provides evidence for substrate neutrality. An 
+in- between case may suggest an intermediate possibility in which the charac-
+ter of our visual phenomenology is substrate sensitive but its presence or 
+absence is not. Schneider calls this the ‘chip test’.H3
+However, the inferences involved strike me as hasty. Loss of phe nom en-
+ology might also be taken as evidence that we had matched functions at the 
+wrong level of analysis. It might point towards the importance of very low- 
+level functions we had neglected to match, such as the computations per-
+formed within neurons or phase- amplitude couplings between neurons.H4 It 
+could yet be that emulating those low- level functions— in any substrate— 
+would restore phenomenology. Schneider’s thought is that if, over the long 
+run, we really do try everything— complete matching of functions at all levels 
+of analysis right down to the lowest levels— so that nothing except the ma ter-
+ial substrate is altered, and we still ﬁnd a loss of phenomenology, that would 
+be evidence of substrate sensitivity. I agree, but I am no longer conﬁdent the 
+implants now being envisioned are physically possible.
+Meanwhile, unaltered phenomenology might be taken as evidence that the 
+neural basis of conscious experience is really somewhere other than where 
+the implant is located. Inferences here are further complicated by the well- 
+known plasticity of the brain. Perhaps the substituted region is normally part 
+of the neural basis of consciousness but that basis shi4s elsewhere when that 
+region is substituted by an implant. A separate problem with this second 
+inference, emphasized by David Billy Udell and Eric Schwitzgebel, is that 
+H3 The test somewhat resembles Chalmers’s (1996, ch. 7) ‘fading qualia’ thought experiment, except 
+that Schneider is envisaging an actual process of replacement with uncertain outcomes, not a coun-
+terfactual, idealized process of neuron- by- neuron replacement. Schneider also proposes a second test 
+that is not a test of substrate neutrality, but looks for signs of consciousness assuming substrate neu-
+trality. This ‘artiﬁcial consciousness test’ will be discussed much later, in §16.2.
+H4 On computations within neurons, see Donato et al. (2019). On phase- amplitude coupling, see 
+Munia and Aviyente (2019).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

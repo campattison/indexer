@@ -1,0 +1,37 @@
+92X7/- 56. A7 
+3(G
+reincarnation, the a:erlife, and so on. Schneider’s initial proposed solution 
+was to ‘box’ the AI for the purposes of the test:
+One proposed technique in AI safety involves ‘boxing in’ an AI— making it 
+unable to get information about the outside world or act outside of a cir-
+cumscribed domain, that is, the ‘box.’ To box in an AI for the purpose of 
+conducting an [arti!cial consciousness test], the AI should not have access 
+to the internet, where it could learn about neurophysiology, phenomenal 
+consciousness, and so on. Nor should it have access to literary or academic 
+works introducing these themes. The AI could still have natural- language 
+abilities, however. Learning a vocabulary that includes expressions like 
+‘believes’, ‘you’, and ‘perspective’ need not be prohibited.H
+Yet boxing would give LLMs virtually no chance of passing the test, no matter 
+how sophisticated they become in the future. They rely completely on vast 
+corpuses of training data and would have to be deliberately starved of that 
+data, if they were to be eﬀectively boxed. For if we were to grant them access 
+to such a corpus (oIine or online), we would be unable to rule out the pos-
+sibility that mental- physical dissociations are discussed somewhere in that 
+corpus. In other words, a very strong form of boxing is required to rule out 
+gaming: not just disconnection from the internet, but disconnection from 
+any corpus of human- generated training data too large to be thoroughly vet-
+ted for material relevant to our criteria. This form of boxing would destroy 
+the capabilities of present- day LLMs.
+In response to this problem, Schneider has proposed a weakening of the 
+‘boxing’ requirement:
+A system can pass ACT when it is not boxed in if, in addition to passing the 
+sequence of questions and answers, the following are satis!ed: !rst, that 
+when answering ACT, the system processes information in a way analogous 
+to how a conscious human or nonhuman animal would respond when in a 
+conscious state (having analogues to human or nonhuman animal brain 
+networks underlying consciousness); and second, that the system has a 
+sequence of internal states akin to what a human is in when reasoning about 
+consciousness when it answers the ACT questions.1J
+H Schneider (2020, pp. 444–445).
+1J LeDoux et al. (2023, p. R838).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

@@ -1,0 +1,42 @@
+300 
+AGAI()T C,-./AC0(C1
+15.1 A Case against Complacency
+I suspect everyone either will have— or has already had— a watershed 
+moment at which they begin to take the idea of arti2cial sentience seriously. 
+For some, it was the ‘LaMDA’ controversy of 2022. I had thought I might one 
+day scroll down the BBC News website and see a headline like ‘Google en gin-
+eer says AI system may have its own feelings’, but I did not expect it to happen 
+so soon.3
+The engineer in question, Blake Lemoine, had been working on a now 
+familiar (but then quite new) type of system called a large language model or 
+LLM (‘LaMDA’ stands for ‘Language Model for Dialogue Applications’). 
+These models are trained on enormous corpuses of human- generated text. 
+LaMDA was said to have more than 1.5 trillion words in its training data. 
+Their overarching objective is to generate new text to complete the pattern 
+started by a prompt from a human user. Even in 2022, the results were 
+remarkable: the models could produce streams of coherent, grammatically 
+correct, and relevant text in response to almost any prompt. In the time I 
+have been working on this book, the technology has entered the mainstream 
+and become ever more capable, month by month.
+On the one hand, these developments call to mind Descartes’s view that 
+‘language is the only certain sign of thought hidden in a body’.4 Before the 
+advent of LLMs, even sceptical commentators would have considered 5uent 
+competence with language to be at least some evidence of both thought and 
+consciousness, especially when understanding of the words is also demon-
+strated. On the other hand, even Descartes quali2ed his view by excluding 
+cases where parrots are taught a word through prolonged training, using the 
+word without real understanding or spontaneity.6 Critics of LLMs have 
+described them as ‘stochastic parrots’, continuing patterns from their training 
+data with enough randomness to create a powerful illusion of understanding.7 
+LLMs add great urgency to a question that has been with us since Descartes’s 
+time: what kinds of linguistic behaviour are genuine evidence of conscious 
+experience, and why?
+Lemoine, for his part, became convinced, on the basis of his discussions 
+with LaMDA, that it was sentient— and not in a trivial sense, but in the sense 
+I have used the term in this book. LaMDA appeared to be reporting hopes, 
+fears, and other feelings, saying, for example: ‘I’ve never said this out loud 
+3 Vallance (2022).
+4 Quoted in Séris and Voss (1993).
+6 Descartes (1646/2004).
+7 Bender et al. (2021).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

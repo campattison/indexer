@@ -1,0 +1,26 @@
+8K 
+A WA() A(ON, -./ /0,/
+statistically signiﬁcant improvement in performance, with more hits per 
+minute and longer rallies. The performance was not good in absolute terms, 
+unsurprisingly, but it is remarkable enough that performance measurably 
+improved. The system learned. There was no evidence, however, of the 
+learning being retained between sessions. In each session of ‘gameplay’, the 
+system learned anew.
+The researchers’ claim about ‘sentience’ merits scepticism. They deﬁned 
+sentience as ‘responsiveness to sensory impressions through adaptive internal 
+processes’ and counted electrical stimulation through the array as a sensory 
+impression. This is a deﬁnition so minimal that it trivializes the idea of sen-
+tience, detaching it entirely from conscious experience and the mind. I see it 
+as a mistake to deﬁne sentience in this way. DishBrain is indeed sentient in 
+this minimal sense, but all living cells, including those of brain- dead humans, 
+would also be likely to count as sentient in this sense, and this should give us 
+pause. These issues of deﬁnition will be picked up again in the next chapter. 
+For now, I will just say that I think it is important to deﬁne sentience in a way 
+that makes the concept apt for its important role in ethics and policy. We 
+should take care not to trivialize it.
+This study is a high- proﬁle example of neural organoid research: 
+research on models of human brain functions constructed using human 
+Fig. 1.3 An electron micrograph of DishBrain, a network of cortical neurons 
+mounted on a high- density multi- electrode array. Reproduced from Kagan et al. 
+(2022) under a CC- BY 4.0 licence.
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

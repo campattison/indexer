@@ -1,0 +1,41 @@
+3() 
+LA,-. LA/-0A-. 123.L4 A/3 56. -A17/- 8,29L.1
+there are funds available that aim to exclude companies with the biggest fossil 
+fuel reserves, using a list of criteria. Unfortunately, I also learned that (at the 
+time, at least) these funds still had multinational oil and gas corporations 
+among their top holdings. These companies had found ways to game the 
+criteria— just one example of what is o:en called ‘greenwashing’.; Because 
+they knew the criteria, they were able to tick oﬀ the items on the list without 
+possessing the underlying property (a commitment to moving away from 
+ fossil fuels) that the list was supposed to track.
+Sadly, criteria are no longer reliable once they become widely gamed. We 
+may even !nd that ticking oﬀ all the indicators lowers the probability that a 
+company is really environmentally friendly, since a company that was not 
+engaged in greenwashing would probably not hit an imperfect list of criteria 
+so immaculately. Some may say: ‘Who am I to say there is more to being 
+environmentally friendly than these indicators? If this company ticks oﬀ the 
+indicators, it must really be environmentally friendly!’—but this is a naïve 
+response. The underlying property is not identical to, nor logically entailed 
+by, the set of indicators. It was always possible for the indicators to become 
+misleading, and we have evidence of exactly this happening.
+I fear we could easily end up in this type of situation regarding sentience in 
+AI. Before we turn to LLMs, consider a much simpler example. In 2022, I 
+learned of an impressive project at Imperial College London in which robotic 
+patients were programmed to display human pain expressions in response to 
+pressure.4 The setup is intended for use in training doctors, who need to learn 
+how to skilfully adjust the amount of force they apply. Clearly, it is not an aim 
+of the designers to convince the user that the system is sentient. There is no 
+intention to deceive. Suppose, though, that a member of the public walks into 
+the room without knowing anything about the setup, sees the pain expres-
+sions, and is horri!ed, believing that sentient robots are being tortured. Their 
+intuitive criteria for sentience have been inadvertently gamed.
+Why is this ‘gaming’? Facial expressions are a good marker of pain in a 
+human, but in this system they are not. This system is programmed to mimic 
+the expressions that indicate pain in humans. To do this, it needs to register 
+pressure, and map pressure to a programmed output, but there is absolutely 
+no reason to think this is suﬃcient for sentience on any credible theory, and 
+no one has seriously proposed that it is. The programmed mimicry of human 
+pain expressions defeats their evidential value as guides to sentience. Someone 
+; de Freitas Netto et al. (2020).
+4 Tan et al. (2022).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

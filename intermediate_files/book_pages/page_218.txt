@@ -1,0 +1,40 @@
+78: 
+4E;,3L ­,234­/50
+unease at the idea of a miniature model of the human brain constructed from 
+human brain tissue. Sometimes unease is a bias we should try to overcome. 
+But sometimes it is pointing us in the direction of genuine moral reasons to 
+pause the research.
+We need to think seriously about which of these possibilities is the case here. 
+In recent years, a number of bioethicists have been doing just that.4 I have 
+weighed into the debate already, advocating for a precautionary approach to 
+these issues.? But, as emphasized in Chapter 8, a crucial part of a precaution-
+ary approach to any issue is consistency in our thinking about diﬀerent risks, 
+and we need to make sure our approach to organoids is fully consistent with 
+our approach to animal research. In particular, we must be careful not to be 
+overcautious regarding organoids in a way that undermines their promise as 
+replacements for animals. My goal here is to ﬁnd the right balance.
+11.2 No Risk of Sentience?
+I want to start by considering possible reasons to think current neural orga-
+noids (at the time of writing) are not sentience candidates. A simple reason 
+ofen given is their size. This is not a persuasive reason. Bees have around 
+1 million neurons, and (as I will argue in Chapter 13) they are sentience 
+candidates. There are existing neural organoids of a similar size, in terms 
+of  neuron count, and researchers aim to create organoids with around 
+10 million neurons.6
+A second simple reason, in my view more on- target than the ﬁrst, is that 
+organoids are not complete living organisms. They are disembodied pieces of 
+tissue, and a default attitude of scepticism towards the idea of sentient tissue, 
+outside of any living animal, is appropriate. Neuroscientists have experi-
+mented with small samples of cortical tissue for many years without anyone 
+suggesting a risk of sentience. Just as there is a meta- consensus around the 
+idea that spinal cords alone are not sentient, there is a meta- consensus around 
+the idea that ordinary tissue samples are not sentient either. We must ask: 
+given that cortical tissue samples are not ordinarily sentience candidates, 
+what is diﬀerent about this new type of cortical tissue that should cause us to 
+4 Ankeny and Wolvetang (2021); Barnhart and Dierickx (2023); Bassil and Horstkötter (2023); de 
+Jongh et al. (2022); Diner (2023); Greely (2021); Hyun et al. (2020); Jowitt (2023); Kreitmair (2023), 
+Lavazza (2020); Lavazza and Massimini (2018); McKeown (2023); Niikawa et al. (2022); Pichl et al. 
+(2023); Sawai et al. (2019); Sharma et al. (2021); Auradzki (2021).
+? Birch and Browning (2021).
+6 Smirnova et al. (2023).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

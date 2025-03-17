@@ -1,0 +1,41 @@
+3(D 
+LA,-. LA/-0A-. 123.L4 A/3 56. -A17/- 8,29L.1
+He made the prediction that ‘at the end of the century the use of words and 
+general educated opinion will have altered so much that one will be able to 
+speak of machines thinking without expecting to be contradicted’.E
+Turing’s paper has a pragmatic orientation that is o:en missed. As I read it, 
+Turing was not primarily concerned with the question of whether we would 
+be justiﬁed in ascribing thought to future computers, regarding this question 
+as unimportant. Rather, his central claim was an empirical prediction: people 
+just will ascribe thought to computers when they perform at human levels in 
+this type of test. Those who continue to feel qualms about these ascriptions, 
+suspecting them to be unwarranted, will gradually be washed away by the tide 
+of history.
+Turing’s test, though, concerns ascriptions of thought, rather than ascrip-
+tions of sentience or consciousness. A diﬀerent type of test will be needed for 
+sentience. Schneider and Turner’s proposal adapts Turing’s approach to the 
+case of phenomenal consciousness, one important ingredient of sentience in 
+the way I have been using that term.
+Schneider and Turner’s core assumption is that some ideas are much easier 
+for a conscious being to grasp, compared with a non- conscious being of simi-
+lar intelligence. In particular, the conscious being, by virtue of being !rst- 
+personally acquainted with its own conscious experiences, will be able to 
+easily grasp the idea of a dissociation between the mental and the physical. It 
+will be able to conceive of an a:erlife, ghosts, zombies, body swaps, reincar-
+nation, out- of- body experiences, inverted qualia, and so on. A second 
+assumption is that there are certain types of goals that conscious beings are 
+more likely to pursue. Conscious beings are able to seek new types of con-
+scious experience for their own sake, a tendency Nicholas Humphrey has 
+called ‘qualiaphilia’, and humans plausibly manifest this tendency in many 
+aspects of their behaviour (from holidays to art galleries to drug use).F Given 
+this background, the test we need, Schneider and Turner suggest, is one that 
+probes, through systematic questioning, the ability of the AI system to grasp 
+dissociations between the mental and the physical and its tendency to pursue 
+novel experiences for their own sake, relative to a human baseline.
+Now, on the face of it, the gaming problem bites this proposal just as 
+strongly as it bites more naïve approaches. An LLM, for example, may have a 
+huge amount of text on mental- physical dissociations in its training data. 
+It  may have access to everything ever written about zombies, ghosts, 
+E Turing (1950, p. 442).
+F Humphrey (2022).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

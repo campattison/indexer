@@ -1,0 +1,39 @@
+300E00/42 0E4(/E46E 6345/53(;,E /4 4E;,3L ­,234­/50 
+778
+This pattern of increasingly strong and frequent bursts of activity, with less 
+predictable intervals, is also seen in the EEGs of preterm infants. In an eye- 
+catching result, Trujillo and colleagues showed that a regression model pre-
+dicting a neonate’s developmental age from key features of their EEG 
+recording, and trained only on data from preterm infants, could also judge 
+the developmental age of organoids older than 25 weeks with above- chance 
+accuracy, with moderate correlation between the predicted and actual ages.
+The result must be carefully interpreted. This does not show that the orga-
+noids were in any sense equivalent to the brains of preterm infants. It is 
+important to note, ﬁrst of all, that these cortical organoids were not brains at 
+all. We should take care to avoid terms such as ‘mini- brain’ for systems like 
+these. The organoids were formed of cortical tissue representative of one par-
+ticularly important brain region, the neocortex. The organoids were vastly 
+smaller than an infant brain, and still lacked a brainstem and vascularization. 
+Nor do the results show that the electrophysiological activity was the same or 
+indistinguishable in the two cases. The regression model aimed to exploit the 
+similarities that existed, not quantify the degree of similarity. The model 
+identiﬁed enough similarities to inform above- chance predictions of develop-
+mental age, but this is compatible with substantial diﬀerences.
+Nonetheless, the result was, to me, a wake- up call: a jolt out of compla-
+cency about the potential ethical implications of this research. Neural orga-
+noids develop, they are sometimes allowed to develop for a long time, and 
+they develop in ways that show broad electrophysiological similarities to the 
+developing human brain.
+11.4 Assessing Sentience Candidature in Neural Organoids
+We cannot conﬁdently rule out the possibility that suIciently sophisticated 
+organoids will soon be sentient, and we can expect the science to continue 
+to develop extremely rapidly. So, we need to have a discussion now about 
+what sort of warning signs might suIce to regard an organoid as a sentience 
+candidate.
+Here we run into a serious problem. In people with prolonged disorders of 
+consciousness, some behaviour remains, despite the tendency to describe 
+patients as ‘unresponsive’, and that behaviour informs diagnosis and the 
+design of precautions (Chapter 9). As we have seen, clinicians in the UK are 
+already advised to respond to outward signs of pain, distress, anxiety, and 
+depression on the precautionary assumption that they really do indicate those 
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

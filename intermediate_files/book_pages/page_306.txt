@@ -1,0 +1,38 @@
+),U?C0) ,F ?I)A L 
+30M
+Nonetheless, we can imagine future trajectories for this type of research in 
+which populations of far more complex simulated agents are lef to evolve for 
+very long periods, with unpredictable results. Moreover, we can imagine a 
+situation in which, without any intent on the researchers’ part, the virtual 
+agents start spontaneously displaying markers of sentience. Suppose we have 
+a population of virtual agents comparable in complexity to Drosophila, which 
+has around 100,000 neurons and about 100 million synapses.3F And suppose 
+we let the simulation run a long time in a realistic virtual environment, allow-
+ing the population to evolve complex adaptations over thousands of gen er-
+ations. We can imagine the insect- like virtual agents spontaneously evolving 
+ways of managing injury through wound- tending behaviour, conditioned 
+place avoidance, and motivational trade- oﬀs.
+It would be appropriate to take these warning signs seriously, as potentially 
+indicating convergent evolution to an arti2cial form of sentience. There 
+would be a strong initial temptation to dismiss the warning signs as mere 
+mimicry, but it is not mimicry in this scenario. The virtual population has 
+never interacted with a real insect. It has converged by means of the same 
+process— evolution by natural selection— to a similar result. It would be 
+appropriate to regard the insect- like arti2cial agents as sentience candidates. 
+Their non- biological nature would not be a good reason to reject the need for 
+precautions.
+15.4 Sources of Risk 3: Minimal Implementations of 
+Cognitive Theories of Consciousness
+A third pathway involves the intentional construction of systems with cogni-
+tive architectures that (assuming large- scale computational functionalism) 
+are minimally suﬃcient for sentience according to at least one credible, 
+empirically supported theory in the science of consciousness.3G Let us con-
+sider two such theories: the global workspace theory of Bernard Baars, 
+Stanislas Dehaene, and collaborators and Hakwan Lau’s perceptual reality 
+monitoring theory.
+3F Pipkin (2020).
+3G In a similar vein, Crosby (2019) has written of the ‘Roomba test’. This is introduced as a ‘test’ of a 
+proposed theory of consciousness: can a minimal instantiation of the architecture be implemented in 
+AI? If the answer is no, the theory is underspeci2ed. If the answer is yes, a debate should ensue about 
+whether the conditions are too minimal or whether the AI would be conscious.
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

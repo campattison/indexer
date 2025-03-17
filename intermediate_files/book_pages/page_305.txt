@@ -1,0 +1,36 @@
+30K 
+AGAI()T C,-./AC0(C1
+The decoupling between sentience and intelligence could also occur in the 
+other direction: there may be systems that are highly intelligent in quite ver-
+satile ways (e.g. in their linguistic abilities) without being candidates for sen-
+tience.3; LLMs already seem to be heading in that direction. This too carries 
+ethical risks, but of a diﬀerent kind. I fear people will be too willing to at tri-
+bute sentience to these systems because of their impressive mimicry of human 
+language, potentially drawing away attention and resources from genuine 
+sentience candidates.
+Proposal 22. Sentience is not intelligence (II). We should be aware of the 
+possibility of a substantial decoupling between intelligence and sentience 
+in the AI domain. Precautions to manage risks of suﬀering should be 
+driven by markers of sentience, not markers of intelligence. For example, 
+emulations of animal brains could achieve sentience without necessarily 
+displaying impressive intelligence.
+15.3 Sources of Risk 2: Artiﬁcial Evolution
+Computer simulations of evolution by natural selection were around in the 
+1980s and were popularized by Richard Dawkins in The Blind Watchmaker 
+(1986/2006). They have become a standard part of the evolutionary biolo-
+gist’s toolkit— and they are not currently generating sentience candidates. 
+Many do not simulate individual organisms at all, instead simulating popula-
+tion frequencies of alleles. In those cases where individual organisms are 
+simulated, they tend to be functionally extremely limited.
+To give an indicative example, one recent study involved a virtual popula-
+tion of ‘simulated robots’ playing a coordination game, evolving novel strat-
+egies to coordinate with each other.37 Each simulated robot was controlled by 
+an arti2cial neural network with 410 neurons. However, the connection 
+weights, while free to evolve across generations, were 2xed within the lifetime 
+of each agent. In other words, there was no individual- level learning in the 
+model. So, we are still looking at an arti2cial agent much simpler than even 
+C. elegans in important respects.
+3; Seth (2021).
+37 Bernard et al. (2020). Fields (2021) has discussed the philosophical foundations of this ‘evolu-
+tionary robotics’ programme.
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

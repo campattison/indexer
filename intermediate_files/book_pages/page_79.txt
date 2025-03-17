@@ -1,0 +1,39 @@
+.61/.-6:/1E// ;-T,6:T V04E1.E 
+(9
+4.2 Agency-centric Views
+We cannot be sure that insects are sentient (see Chapter 13), but it is harder 
+to doubt that they are agents in at least a basic sense: they act in the world, 
+and their actions are guided by internal representations of goals, such as the 
+expected food reward associated with a particular location. Should we take 
+agency as a suﬃcient condition for moral standing by itself, with or without 
+sentience?
+Nicolas Delon and colleagues (2020) have proposed a view of this type.5 
+The main problem cases for such a view are artiﬁcial agents that we usually 
+presume to be non- sentient. Think of a robotic vacuum cleaner steadily 
+exploring a carpet. Perhaps we are hasty to dismiss the idea of sentience in AI 
+(see Chapters 15–17), but for the sake of argument let us assume the vacuum 
+cleaner feels nothing. Its agency alone still gives it moral standing, on the 
+Delon et al. view. We have a moral reason not to wantonly thwart its attempts 
+to achieve its goals.
+This leads to a challenge for agency- centric views: how do you see the rela-
+tionship between the interests of sentient beings and those of non- sentient 
+agents like robotic vacuum cleaners? One answer is that the interests of the 
+sentient take lexical priority over the interests of the merely agential; this 
+brings the view very close to sentientism. But any other answer appears to 
+have repugnant consequences, akin to the vet who prioritizes the bacteria in a 
+dog’s wound over the dog. For if we do not grant lexical priority to the inter-
+ests of sentient beings, there must be some number of robotic vacuum clean-
+ers whose interests, taken together, would outweigh a grave interest of a 
+sentient animal. That position, while I think part of the zone of reasonable 
+disagreement, is not easy to defend.?
+4.3 Consciousness without Valence
+‘Sentience’ as I use the term has two ingredients: phenomenal consciousness 
+and valence. Are both needed for moral standing? Could it be that a capacity 
+5 For related ideas, see Kagan (2019) and Wilcox (2020). Wilcox proposes agency as the funda-
+mental criterion for moral status but also suggests it both entails and is entailed by sentience. Sebo 
+(2017) takes ‘perceptual agency’ to be relevant to moral standing, but only in so far as it implies 
+sentience.
+? Bradford (2023) has defended a view on which the welfare goods of the conscious have much 
+greater value than those of the non- conscious, but not lexical priority. Yet it seems to me that anything 
+short of lexical priority runs into the ‘how many bacteria exactly?’ problem.
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

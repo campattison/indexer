@@ -1,0 +1,42 @@
+30I 
+AGAI()T C,-./AC0(C1
+In 2014, OpenWorm installed an early attempt at emulation in a Lego 
+robot. The robot used sonar sensors to detect nearby objects, triggering the 
+arti2cial sensory neurons that, in a real worm, respond to tactile stimulation. 
+The arti2cial motor neurons, instead of mapping to muscles, mapped to elec-
+tric motors. Without having been intentionally programmed to display any 
+particular behaviour, the robot started behaving in ways that, super2cially at 
+least, resembled C. elegans behaviour: ‘stimulation of the nose stopped for-
+ward motion. Touching the anterior and posterior touch sensors made the 
+robot move forward and back accordingly. Stimulating the food sensor made 
+the robot move forward.’36
+I have been a fan of OpenWorm ever since, yet the emulation of C. elegans 
+behaviour I thought might soon become available has not materialized. One 
+reason is funding: it is impossible to tell where the work would be now, had it 
+received millions of dollars of investment. But another, deeper reason is that 
+the connectome does not give us the whole story about the functioning of the 
+nervous system. Perhaps most obviously, it does not tell us the synaptic 
+weights: the degree of in5uence of one neuron’s 2ring over that of another. It 
+also does not tell us how these weights can be modi2ed by experience— how 
+the system can learn. More fundamentally, there is a lot that neurons do 
+beyond simply 2ring, and indeed the neuroscience of C.  elegans is a rich 
+source of information about what else a biological neuron can do.
+For example, C. elegans is able to steer towards the source of an attractive 
+odour or away from an aversive odour. This behaviour relies on processing 
+within a single interneuron. Part of the neuron’s axon keeps track of where 
+the head is located as it sweeps from side to side, while another part of the 
+axon keeps track of the intensity of the odour, and these two pieces of infor-
+mation are integrated inside the neuron to regulate steering. The internal 
+spatial organization of the axon, plus its spatial relationships to sensory and 
+motor neurons, are all part of the story of how it can do this job.37 A full emu-
+lation of C. elegans would have to go below the neuronal level to emulate the 
+dynamics within neurons, which ofen seem to depend on the 2ner details of 
+how neurons are arranged in space.39
+Around the same time I 2rst learned about OpenWorm, I read Nick 
+Bostrom’s Superintelligence (2014), in which the possibility of whole- brain 
+emulation is discussed as one possible route to intelligence beyond human 
+levels. One day, Bostrom suggested, humans may be able to emulate whole 
+36 Fessenden (2014).
+37 Ouellette et al. (2018).
+39 Donato et al. (2019).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

@@ -1,0 +1,40 @@
+8M 
+A WA() A(ON, -./ /0,/
+long- running attempt to emulate in computer soEware the entire nervous 
+system of the nematode worm Caenorhabditis elegans, an animal with fewer 
+than four hundred neurons (less than one- thousandth the size of DishBrain). 
+Researchers on that project had put their latest emulation in control of a 
+small robot and watched as the robot navigated its environment in something 
+like (but, in truth, not all that much like) the way the original worm would. 
+IGwas struck by a troubling thought: the same uncertainty about sentience 
+that grips us when we think about invertebrates and human fetuses was 
+beginning to resurface in artiﬁcial systems. If a worm could be sentient, could 
+a neuron- by- neuron emulation of a worm in a computer also be sentient?
+These fears about the emergence of artiﬁcial sentience, extremely niche 
+and oEen dismissed back then, have since become rather more mainstream. 
+IGnow fear we may achieve artiﬁcial sentience long before we realize we have 
+done so. At the same time, we are also facing a di;erent but perhaps even 
+more urgent problem: people rampantly over- attributing sentience to systems 
+that can skilfully mimic the behaviours that make humans think sentience is 
+present.!1 We already see signs of this with current large language models 
+(LLMs). There is already a subculture in which people develop intimate emo-
+tional bonds with AI companions— or at least think they do. How can we tell 
+skilful mimicry from the real thing?
+In late 2022, two colleagues— Patrick Butlin and Rob Long— invited me to 
+join an ambitious project that aimed to devise a list of indicators of sentience 
+in AI.!7 The media coverage of our eventual report was rather generous. 
+Nature wrote ‘if AI becomes conscious, here’s how researchers will know’.!: In 
+truth, talk of ‘knowledge’ is inappropriate. As I’ll explain in Part V, the diﬃ-
+culties we face in this area are even greater than those we face in the case of 
+other animals. Other animals are not capable of gaming our criteria. They do 
+not have an internet- sized corpus of training data to mine for e;ective ways 
+of persuading human observers. So, when animals display a pattern of behav-
+iour that is well explained by a feeling (such as pain), the best explanation is 
+usually that they do indeed have that feeling. With AI, by contrast, two 
+ex plan ations compete: maybe the system has feelings, but maybe it is just 
+responding as a human would respond, exploiting its vast reservoir of data on 
+how humans express their feelings.
+!1 Andrews and Birch (2023).
+!7 Butlin et al. (2023).
+!: Lenharo (2023a).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

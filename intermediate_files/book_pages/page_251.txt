@@ -1,0 +1,142 @@
+)C) 
+,-. /0.12.3, /145651,.3
+Table 12.1 A summary of the evidence of sentience in cephalopod molluscs. 
+The colours and letters represent our conﬁdence level that the criterion in 
+question (column) is satisﬁed by the taxon in question (row). VH (dark green) 
+indicates very high conﬁdence, H (light green) indicates high conﬁdence, M 
+(dark yellow) indicates medium conﬁdence, L (light yellow) represents low 
+conﬁdence, and VL (light grey) represents very low conﬁdence.
+Octopods
+(Octopoda)
+Cuttlefish (Sepiida)
+Other coleoids
+(squid, all orders)
+Nautiloids
+Nociception
+VH
+VH
+VH
+VH
+VH
+VH
+VH
+H
+H
+H
+H
+H
+H
+H
+H
+H
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+M
+M
+M
+M
+M
+VL
+Sensory
+integration
+Integrated
+nociception
+Analgesia
+Motivational
+trade-off
+Flexible self-
+protection
+Associative
+learning
+Analgesia
+preference
+Table 12.2 A summary of the evidence of sentience in decapod crustaceans. The 
+colours and letters represent our conﬁdence level that the criterion in question 
+(column) is satisﬁed by the taxon in question (row). VH (dark green) indicates 
+very high conﬁdence, H (light green) indicates high conﬁdence, M (dark yellow) 
+indicates medium conﬁdence, L (light yellow) represents low conﬁdence, and VL 
+(light grey) represents very low conﬁdence.
+True crabs
+(Brachyura)
+Anomuran crabs
+(Anomura)
+Astacid
+lobsters/crayfish
+(Astacidea)
+Spiny lobsters
+(Achelata)
+Nociception
+H
+VH
+VH
+H
+L
+VH
+VH
+H
+H
+L
+L
+L
+VH
+H
+VL
+H
+VH
+L
+L
+VH
+L
+VL
+VL
+L
+L
+L
+M
+L
+M
+L
+H
+VL
+Caridean shrimps
+(Caridea)
+H
+VH
+L
+M
+L
+M
+L
+VL
+Penaeid shrimps
+(Penaeidae)
+H
+L
+L
+M
+L
+L
+L
+VL
+Sensory
+integration
+Integrated
+nociception
+Analgesia
+Motivational
+trade-off
+Flexible self-
+protection
+Associative
+learning
+Analgesia
+preference
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

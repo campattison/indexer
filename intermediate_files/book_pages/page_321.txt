@@ -1,0 +1,34 @@
+322 
+LA,-. LA/-0A-. 123.L4 A/3 56. -A17/- 8,29L.1
+the possibility of sentient unicellular organisms or plants. Biopsychists will 
+demur. Yet in the case of plants and unicellular life, we have a solid existing 
+platform of understanding of the internal mechanisms and no reason to think 
+they will change rapidly. With AI there can be no such assurances, and so the 
+imperative to investigate further has a greater sense of urgency.
+16.4 Summary of Chapter 16
+When an arti!cial agent is able to intelligently draw upon huge amounts of 
+human- generated training data (as in large language models, or LLMs), the 
+result can be gaming of our criteria for sentience. Gaming occurs when 
+systems mimic human behaviours that are likely to persuade human users of 
+their sentience without possessing the underlying capacity. No intentional 
+deception is needed for gaming. It could happen in service of benign, 
+mundane objectives, such as maximizing user- satisfaction or maximizing 
+interaction time.
+The gaming problem initially leads to the thought that we should ‘box’ AI 
+systems when assessing their sentience candidature: that is, the system must 
+be denied access to a large corpus of human- generated training data. 
+However, this would destroy the capabilities of any LLM, thereby setting an 
+impossibly high bar.
+This in turn leads to the thought that what we really need in the AI case are 
+deep computational markers, not behavioural markers. We can use current 
+computational functionalist theories of consciousness as a possible source of 
+markers. If we !nd signs that an LLM, though not deliberately equipped with 
+a global workspace or perceptual/evaluative reality monitoring system, has 
+implicitly learned ways of recreating them, this should lead us to regard it as a 
+sentience candidate. The main problem with this proposal is that we cur-
+rently lack the sort of access to the inner workings of LLMs that would allow 
+us to reliably ascertain which algorithms they have implicitly picked up dur-
+ing training.
+The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI. Jonathan Birch, Oxford University Press. 
+© Jonathan Birch 2024. DOI: 10.1093/9780191966729.003.0017
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

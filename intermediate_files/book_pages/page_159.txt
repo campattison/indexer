@@ -1,0 +1,41 @@
+A -RAG2A()C ANA/5.). ,1 -R,-,R(),NA/)(5 
+78E
+their own happiness— should be involved in making that decision. At the 
+edge of sentience, by contrast, the question is one of moral acceptability: what 
+risks ought we not accept, as people who recognize a duty not to cause gra-
+tuit ous suﬀering to other sentient beings? And it might be supposed that we 
+need to leave this to ethics experts, not to ordinary citizens. The objection 
+goes: I am incorrectly conﬂating issues of prudential acceptability with issues 
+of moral acceptability, and incorrectly assuming a framework apt for man-
+aging the former is apt for managing the latter.
+In my view, though, it is right to involve the public even when the question 
+is speciﬁcally one of moral acceptability. Recall the principle (endorsed in 
+Chapter 7) that value conﬂicts in a democratic society, including moral con-
+ﬂicts, should be resolved democratically. Any other approach involves elevat-
+ing an anointed group as the experts on the relative importance of the 
+conﬂicting values, when we have no reason to believe that there are any such 
+experts. This, and not the superior epistemic standpoint of the citizens 
+regarding their own interests, is the fundamental ethical rationale for involv-
+ing the public (the epistemic point is a subsidiary one, relevant to resisting 
+worries about competence). If we were to allow a panel of ethicists to set the 
+threshold for acceptable risk reduction, conﬂict between values would be 
+resolved by undemocratic means. We would be elevating the ethicists’ values 
+over the values of the wider population.
+What, then, is the proper role for experts in debates about adequacy? Their 
+role is that of providing estimates of the level of risk reduction diﬀerent 
+options provide. There is oCen enormous uncertainty about the level of risk 
+reduction an option will deliver. It is therefore crucial that experts communi-
+cate their uncertainty about risk. Two tools are particularly useful for that 
+task: conﬁdence levels and probability yardsticks.
+The Intergovernmental Panel on Climate Change (IPCC) has developed a 
+‘conﬁdence levels’ framework for communicating uncertainty about risks.F 
+IPCC experts express conﬁdence levels (very low, low, medium, high, or very 
+high conﬁdence) regarding claims about risk, with their conﬁdence depend-
+ing on the volume and quality of scientiﬁc evidence in support of the claim 
+and the amount of consensus surrounding it. I suggest that this approach be 
+generally adopted for the communication of uncertainty to citizens’ panels. 
+For example, experts should say not ‘Option 1 will reduce the risk more than 
+Option 2’ but rather ‘I/we have high conﬁdence that Option 1 will reduce the 
+risk more than Option 2’.
+F IPCC (2010).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024

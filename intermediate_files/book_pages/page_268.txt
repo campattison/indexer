@@ -1,0 +1,40 @@
+./,2C1,: 1-2 2?270./0 /2W P.C1U72 
+2(H
+the maze and uses this as a guide to which branch to select at the fork, either 
+opting for the branch with the matching colour/odour (when matching to 
+sample is what leads to reward) or the branch with a non- matching colour/
+odour (when non- matching leads to reward).
+While these experiments indicate that honeybees and bumblebees have 
+working memory, the inference from working memory to conscious experi-
+ence is contested. In humans, the contents of working memory are not always 
+experienced. If I commit a string of symbols to working memory, wait a few 
+seconds, and retrieve it, there is a period in between commitment and 
+retrieval in which I am not experiencing the string of symbols. It is more 
+plausible that a content must be consciously experienced at the point of enter-
+ing working memory and at the point of being retrieved— perhaps one func-
+tion of conscious perception is to control the gates of working memory. This 
+idea is sometimes associated with the global workspace theory of conscious-
+ness. That said, even the idea of consciousness controlling the gates of work-
+ing memory can be questioned. There is some evidence, from humans, that 
+subliminal cues (i.e. cues that were never consciously seen) can be held in 
+working memory.21 Yet continuing debate about the connection between con-
+sciousness and working memory does not prevent evidence of working mem-
+ory from raising the probability of sentience, especially against a background 
+of substantial neural analogies (as stressed by Barron and Klein), poten-
+tially raising the probability to the level of a realistic possibility it would be 
+ irresponsible to ignore.
+A related line of evidence concerns forms of associative learning linked 
+tentatively to conscious perception in humans. Recall the example of trace 
+conditioning, where the subject learns a temporal relationship between a CS 
+and a US. For example, a human subject may hear a tone that predicts a puﬀ 
+of air aimed at the eye a second later— and must learn to blink at just the right 
+moment to block the air puﬀ.22 Until recently, conditioning across temporal 
+gaps had only been shown in bees and Drosophila for olfactory stimuli. In 
+2022, Dhruv Grover and colleagues demonstrated a form of visual trace con-
+ditioning in Drosophila. Moreover, the researchers found trace conditioning 
+and delay conditioning (with no temporal gap between CS and US) involved 
+diﬀerent neural mechanisms, and that the trace conditioning mechanism was 
+disrupted by a distracting stimulus between CS and US, suggesting the 
+21 Soto et al. (2011).
+22 Clark and Squire (1998); Clark et al. (2002).
+Downloaded from https://academic.oup.com/book/57949 by guest on 29 July 2024
